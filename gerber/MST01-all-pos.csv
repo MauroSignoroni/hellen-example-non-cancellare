@@ -35,6 +35,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "F8","50mA","Fuse_0603_1608Metric",-33.275000,44.045000,0.000000,bottom
 "F9","50mA","Fuse_0603_1608Metric",-33.260000,37.040000,0.000000,bottom
 "F10","50mA","Fuse_0603_1608Metric",-33.270000,29.950000,0.000000,bottom
+"G2","LOGO","LOGO",-93.949651,6.132713,180.000000,bottom
 "M7","Module-can-0.1","can",-100.004997,69.707500,180.000000,bottom
 "R1","4.7k","R0603",-103.695000,35.795000,0.000000,bottom
 "R2","33k","R0603",-24.645000,7.785000,0.000000,bottom
@@ -84,7 +85,6 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D3","B5819W","SOD-123",6.960000,24.515000,0.000000,top
 "D8","NUP2105L","SOT-23",92.475000,14.695000,90.000000,top
 "G1","RUSEFI_LOGO","rusefi_logo",645.475000,-69.855000,0.000000,top
-"G2","LOGO","LOGO",664.055000,62.475000,0.000000,top
 "G3","PROTO_AREA","PROTO_AREA",39.625000,36.155000,90.000000,top
 "G4","PROTO_AREA","PROTO_AREA",39.625000,48.855000,90.000000,top
 "J1","Conn_01x35","ampseal-35-mia",16.355000,38.455000,90.000000,top
@@ -96,8 +96,8 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "L2","470R@100MHz","L_0603_1608Metric",89.275000,13.865000,0.000000,top
 "M1","Module-power_12and5V-0.2","power_12and5V",27.789999,2.139999,0.000000,top
 "M2","Module-knock-0.2","knock",99.215000,69.085000,180.000000,top
-"M3","Module-vr-discrete-0.5","vr-discrete",108.735000,14.790000,90.000000,top
-"M4","Module-vr-max9924-0.1","vr-max9924",108.707500,36.765000,90.000000,top
+"M3","Module-vr-discrete-0.5","vr-discrete",108.655000,14.800000,90.000000,top
+"M4","Module-vr-max9924-0.1","vr-max9924",108.610000,36.765000,90.000000,top
 "M5","Module-wbo-0.5","wbo",56.410000,76.625000,180.000000,top
 "M6","Module:mega-mcu100/0.3","mega-mcu100",82.085000,56.684990,180.000000,top
 "P1","Pad","PAD-TH",85.025000,28.465000,0.000000,top
