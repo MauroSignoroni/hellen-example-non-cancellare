@@ -37,11 +37,11 @@ F9,33.26mm,37.04mm,Bottom,0.0
 F10,33.27mm,29.95mm,Bottom,0.0
 G2,93.949651mm,6.132713mm,Bottom,180.0
 R1,103.695mm,35.795mm,Bottom,0.0
-R2,24.645mm,7.785mm,Bottom,0.0
-R3,22.315mm,7.785mm,Bottom,0.0
+R2,25.605mm,7.915mm,Bottom,0.0
+R3,21.285mm,7.915mm,Bottom,0.0
 R4,46.805mm,4.355mm,Bottom,90.0
 R5,103.035mm,31.705mm,Bottom,90.0
-R6,88.685mm,68.245mm,Bottom,270.0
+R6,88.075mm,68.385mm,Bottom,180.0
 R12,2.105mm,24.825mm,Bottom,0.0
 R13,2.085mm,31.695mm,Bottom,0.0
 R17,15.3975mm,70.17125mm,Bottom,270.0
