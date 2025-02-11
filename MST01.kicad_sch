@@ -10208,6 +10208,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 215.9) (xy 71.12 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03f3e62c-d28a-4de1-8b2f-cb16ec562a2e")
+	)
+	(wire
+		(pts
 			(xy 335.28 393.7) (xy 336.55 393.7)
 		)
 		(stroke
@@ -10609,6 +10619,16 @@
 			(color 255 153 0 1)
 		)
 		(uuid "19fe8d1a-551e-48b0-b40a-15662bdb1c46")
+	)
+	(wire
+		(pts
+			(xy 68.58 264.16) (xy 71.12 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a5932d9-1be2-44f3-9a8a-cc08d185778f")
 	)
 	(wire
 		(pts
@@ -11586,6 +11606,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 261.62) (xy 80.01 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cec8306-af8a-4ff2-b672-0465f46c1091")
+	)
+	(wire
+		(pts
 			(xy 222.25 166.37) (xy 245.11 166.37)
 		)
 		(stroke
@@ -12166,6 +12196,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 185.42) (xy 71.12 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b1cb14-a6e4-429f-bd82-434efda3ba55")
+	)
+	(wire
+		(pts
 			(xy 68.58 172.72) (xy 71.12 172.72)
 		)
 		(stroke
@@ -12356,6 +12396,16 @@
 			(type default)
 		)
 		(uuid "76eddf6e-2179-4a73-884f-5d6a67df7649")
+	)
+	(wire
+		(pts
+			(xy 68.58 248.92) (xy 80.01 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f32ebd-1362-481e-8e8d-7c37bf7a99f7")
 	)
 	(wire
 		(pts
@@ -12570,16 +12620,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 266.7) (xy 68.58 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82f69ef7-598f-4cac-a4ef-3d8a3927310c")
-	)
-	(wire
-		(pts
 			(xy 295.91 411.48) (xy 316.23 411.48)
 		)
 		(stroke
@@ -12638,16 +12678,6 @@
 			(color 255 0 255 1)
 		)
 		(uuid "888dd13b-429b-4d3d-bd34-31d9be911308")
-	)
-	(wire
-		(pts
-			(xy 68.58 185.42) (xy 71.12 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8936807c-dc3c-4dfd-88d5-464dcf62aec8")
 	)
 	(wire
 		(pts
@@ -12964,16 +12994,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 187.96) (xy 71.12 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9cece591-745a-4fb1-a4ba-f062b9808ebd")
-	)
-	(wire
-		(pts
 			(xy 317.5 163.83) (xy 326.39 163.83)
 		)
 		(stroke
@@ -13285,16 +13305,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 261.62) (xy 80.01 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab10c28f-bcb8-43d6-941c-9a4efa1ff3d2")
-	)
-	(wire
-		(pts
 			(xy 68.58 274.32) (xy 71.12 274.32)
 		)
 		(stroke
@@ -13493,16 +13503,6 @@
 			(type default)
 		)
 		(uuid "b993b986-f257-4e4c-ad20-886794ae30a4")
-	)
-	(wire
-		(pts
-			(xy 68.58 218.44) (xy 71.12 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba0a9c57-349e-4653-a723-9052bf065086")
 	)
 	(wire
 		(pts
@@ -13849,6 +13849,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 187.96) (xy 71.12 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0aa8360-4085-4e38-be53-4525d443f24c")
+	)
+	(wire
+		(pts
 			(xy 68.58 139.7) (xy 69.85 139.7)
 		)
 		(stroke
@@ -13989,16 +13999,6 @@
 			(color 255 0 255 1)
 		)
 		(uuid "d7e300af-d9fc-4033-ae29-ebbabcdf2bdd")
-	)
-	(wire
-		(pts
-			(xy 68.58 248.92) (xy 80.01 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d82d977c-5778-48a7-abb5-c7ce29cb2bd7")
 	)
 	(wire
 		(pts
@@ -14263,6 +14263,16 @@
 		)
 		(uuid "e5e13319-17a7-415a-9c25-6234f2dde679")
 	)
+	(wire
+		(pts
+			(xy 68.58 218.44) (xy 71.12 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7116f39-21d4-430f-a7a8-70dfb2e9280b")
+	)
 	(bus
 		(pts
 			(xy 120.65 241.3) (xy 96.52 241.3)
@@ -14418,16 +14428,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 264.16) (xy 71.12 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed42a564-4c0c-4872-a50e-2172f3d8a561")
-	)
-	(wire
-		(pts
 			(xy 68.58 256.54) (xy 71.12 256.54)
 		)
 		(stroke
@@ -14568,6 +14568,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 266.7) (xy 71.12 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3aba58c-82c8-476b-924c-c1bd722b5ed7")
+	)
+	(wire
+		(pts
 			(xy 223.52 283.21) (xy 223.52 322.58)
 		)
 		(stroke
@@ -14586,16 +14596,6 @@
 			(color 194 194 0 1)
 		)
 		(uuid "f400e3bd-7855-4a9f-857b-f7e8bc351bb7")
-	)
-	(wire
-		(pts
-			(xy 68.58 215.9) (xy 71.12 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f46937e0-0181-4f63-8173-7aa22ee0692a")
 	)
 	(wire
 		(pts
@@ -15794,7 +15794,7 @@
 		(uuid "2637cc1b-9c15-4990-98a8-501b8c4fb1fb")
 	)
 	(label "OUT_DC1-"
-		(at 71.12 215.9 0)
+		(at 71.12 187.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15814,7 +15814,7 @@
 		(uuid "2730f67f-9914-4291-9dd6-c2bd920d8fc8")
 	)
 	(label "OUT_DC2+"
-		(at 71.12 187.96 0)
+		(at 71.12 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16124,7 +16124,7 @@
 		(uuid "58c91cde-908d-4355-981f-4f5427365d62")
 	)
 	(label "OUT_IGN3"
-		(at 71.12 264.16 0)
+		(at 71.12 266.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16434,7 +16434,7 @@
 		(uuid "77114398-9adb-4396-b181-e6a6430e89e2")
 	)
 	(label "GND"
-		(at 71.12 266.7 0)
+		(at 71.12 264.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16484,7 +16484,7 @@
 		(uuid "85861df0-7095-4011-a248-67d32dc0ad88")
 	)
 	(label "OUT_DC2-"
-		(at 71.12 185.42 0)
+		(at 71.12 218.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16724,7 +16724,7 @@
 		(uuid "a30cabc6-265e-4eb8-bf5b-83f5bd25bba5")
 	)
 	(label "OUT_DC1+"
-		(at 71.12 218.44 0)
+		(at 71.12 185.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17554,6 +17554,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 339.09 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88c20ac0-b2c7-4407-9ab1-bf86660cde36")
 		)
@@ -18050,7 +18059,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0bd0e605-7e97-4790-b74e-fd4c35fadd99")
 		(property "Reference" "G4"
 			(at 41.91 449.58 0)
@@ -18089,6 +18098,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 45.72 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 45.72 450.85 0)
 			(effects
 				(font
@@ -18346,6 +18364,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 179.07 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90b1a3ea-fc91-4b79-8c73-7e272ce59db1")
 		)
@@ -18422,6 +18449,15 @@
 		)
 		(property "LCSC" "C17477"
 			(at 199.39 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 199.39 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18586,7 +18622,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2109366e-1742-401b-abc8-92b063de393e")
 		(property "Reference" "P8"
 			(at 324.612 208.28 90)
@@ -18597,7 +18633,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 326.39 208.28 0)
 			(effects
 				(font
@@ -18625,6 +18661,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 328.93 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 328.93 208.28 0)
 			(effects
 				(font
@@ -18706,6 +18751,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 134.62 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "805cdf8f-fa7f-4178-8409-d829433b9b1d")
 		)
@@ -18734,7 +18788,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2866e143-f2a5-470d-8f86-9d7943f95206")
 		(property "Reference" "G3"
 			(at 27.94 449.58 0)
@@ -18773,6 +18827,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 31.75 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 31.75 450.85 0)
 			(effects
 				(font
@@ -18896,6 +18959,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 335.28 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c67fcac4-fa70-4777-b119-f084979d12ec")
 		)
@@ -18981,7 +19053,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 312.42 334.645 0)
 			(effects
 				(font
@@ -19029,7 +19101,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2daae34b-9306-4736-8f6d-3e5b5818b32e")
 		(property "Reference" "M4"
 			(at 156.21 297.18 0)
@@ -19066,6 +19138,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 154.94 298.45 0)
 			(effects
 				(font
@@ -19178,7 +19259,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3b79a16e-5552-4c71-b880-ab92f2ee80d5")
 		(property "Reference" "M3"
 			(at 173.7361 330.3206 0)
@@ -19216,6 +19297,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 154.94 334.01 0)
 			(effects
 				(font
@@ -19584,6 +19674,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 179.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da0d9bbb-00f1-4f62-b956-5fc75f11ecd5")
 		)
@@ -19678,7 +19777,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4347b078-82b3-42ff-9148-446a131054dd")
 		(property "Reference" "G2"
@@ -19718,6 +19817,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 467.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 53.34 467.36 0)
 			(effects
 				(font
@@ -19796,6 +19904,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 335.28 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3866a808-3a9b-4dcf-b38e-2c28dad0a472")
 		)
@@ -19824,7 +19941,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4a3a80c0-5ff2-431a-af30-5d326e11bdc6")
 		(property "Reference" "M6"
@@ -19967,6 +20084,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 248.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20295,6 +20421,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 144.78 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2310f171-624e-4ca7-bc36-0233f9786f47")
 		)
@@ -20327,7 +20462,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4caab913-7628-43be-8c64-9fc187a388e8")
 		(property "Reference" "U5"
@@ -20407,6 +20542,15 @@
 		)
 		(property "LCSC" "C9900001612"
 			(at 357.886 191.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "Aliexpress"
+			(at 349.25 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20573,7 +20717,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5410bd99-793b-410c-843c-7fecab530dce")
 		(property "Reference" "G1"
@@ -20613,6 +20757,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 36.83 472.44 0)
 			(effects
 				(font
@@ -20683,6 +20836,15 @@
 			)
 		)
 		(property "LCSC" "C21189"
+			(at 205.74 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 205.74 344.17 0)
 			(effects
 				(font
@@ -20903,6 +21065,15 @@
 		)
 		(property "LCSC" "C182446"
 			(at 153.67 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 153.67 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21409,7 +21580,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "731a0a61-da34-4323-985d-e9d0afd49655")
 		(property "Reference" "M3"
@@ -21455,6 +21626,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 153.67 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "W1"
 			(uuid "1d234934-775a-4010-a9e4-a0cfa03be922")
 		)
@@ -21492,7 +21672,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "750e7b11-aa26-4cff-a945-3bd7ae2e439c")
 		(property "Reference" "P9"
 			(at 86.614 261.366 0)
@@ -21503,7 +21683,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 85.09 264.16 0)
 			(effects
 				(font
@@ -21531,6 +21711,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 85.09 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 85.09 261.62 0)
 			(effects
 				(font
@@ -21756,7 +21945,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7bd3e2b2-1d2d-4d27-ae40-93a1cb2e73e4")
 		(property "Reference" "M5"
 			(at 181.61 66.04 0)
@@ -21793,6 +21982,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 213.36 67.31 0)
 			(effects
 				(font
@@ -21951,7 +22149,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8220251e-60b3-45ef-9d1e-f484711a91f3")
 		(property "Reference" "R30"
 			(at 224.79 262.89 0)
@@ -21961,13 +22159,12 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "DNP"
 			(at 224.79 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "hellen-one-common:R0603"
@@ -22006,12 +22203,13 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 224.79 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22102,6 +22300,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 275.59 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa06e3b7-662c-4de8-b456-77c9c424cd6d")
 		)
@@ -22178,6 +22385,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 144.78 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df2f992c-45f3-4cc2-86dd-0737390da3a6")
 		)
@@ -22210,7 +22426,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8b59e811-3981-46db-b21c-8cf87643fa1f")
 		(property "Reference" "P6"
@@ -22222,7 +22438,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 213.36 293.37 0)
 			(effects
 				(font
@@ -22258,6 +22474,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 210.82 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32c55bbd-7cf2-4753-92cc-f3efe29e35b8")
 		)
@@ -22277,7 +22502,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8d360492-06b0-4f05-801b-b84c2c4a26fe")
 		(property "Reference" "J6"
@@ -22289,7 +22514,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "DNP"
 			(at 254 86.3599 0)
 			(effects
 				(font
@@ -22317,6 +22542,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 251.46 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "Ci sono"
 			(at 251.46 85.09 0)
 			(effects
 				(font
@@ -22357,7 +22591,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8fffddc6-5432-4b7e-b0bb-df55b8c5008e")
 		(property "Reference" "J2"
 			(at 55.372 120.904 0)
@@ -22367,7 +22601,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x36"
+		(property "Value" "DNP"
 			(at 55.372 123.444 0)
 			(effects
 				(font
@@ -22399,6 +22633,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MyComment" "Aliexpress"
+			(at 63.5 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "776231-4"
+			(at 63.5 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -22525,7 +22777,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9217789a-2280-4fd8-bd3a-46478a9cc961")
 		(property "Reference" "M7"
@@ -22571,6 +22823,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 271.78 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E1"
 			(uuid "321515da-c72c-4640-b451-b00d7515bdef")
 		)
@@ -22608,7 +22869,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "94ab989b-48b4-4335-bcf4-3438b3866d3d")
 		(property "Reference" "P3"
 			(at 323.85 252.73 0)
@@ -22619,7 +22880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 322.58 255.27 0)
 			(effects
 				(font
@@ -22647,6 +22908,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 322.58 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 322.58 252.73 0)
 			(effects
 				(font
@@ -22876,7 +23146,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9d7600ea-b95f-40c7-a7af-4d0209a19d98")
 		(property "Reference" "P5"
@@ -22888,7 +23158,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 209.55 252.73 0)
 			(effects
 				(font
@@ -22916,6 +23186,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 207.01 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 207.01 252.73 0)
 			(effects
 				(font
@@ -23012,7 +23291,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ac8ba4d6-51e9-4c59-abb5-2f2dcd923c07")
 		(property "Reference" "J1"
 			(at 55.626 215.646 0)
@@ -23022,7 +23301,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x36"
+		(property "Value" "DNP"
 			(at 55.626 218.186 0)
 			(effects
 				(font
@@ -23054,6 +23333,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MyComment" "Aliexpress"
+			(at 63.5 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "776231-1"
+			(at 63.5 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "14"
@@ -23228,6 +23525,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5305780"
+			(at 304.8 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "Ci sono"
+			(at 304.8 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "60a0738f-3629-4340-9ff3-5bacf5ea24fb")
 		)
@@ -23323,7 +23638,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "aed18222-441c-4695-a368-c31109a3eada")
 		(property "Reference" "P2"
 			(at 89.154 167.386 0)
@@ -23334,7 +23649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 87.63 170.18 0)
 			(effects
 				(font
@@ -23362,6 +23677,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 87.63 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 87.63 167.64 0)
 			(effects
 				(font
@@ -23932,7 +24256,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c8606c52-58e1-4ecc-9038-21584d22eb76")
 		(property "Reference" "P1"
 			(at 89.154 164.846 0)
@@ -23943,7 +24267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 87.63 167.64 0)
 			(effects
 				(font
@@ -23971,6 +24295,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 87.63 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 87.63 165.1 0)
 			(effects
 				(font
@@ -24266,7 +24599,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cf5e44dc-f2f2-420a-a344-a39b21d6ffb4")
 		(property "Reference" "R30"
 			(at 127 312.42 0)
@@ -24276,13 +24609,12 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "DNP"
 			(at 132.08 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "hellen-one-common:R0603"
@@ -24321,12 +24653,13 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 132.08 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24553,6 +24886,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 265.43 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41b0caa8-1c57-4f1e-8532-29fa5d96c1c7")
 		)
@@ -24581,7 +24923,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d7ba5e41-a96e-44fc-87f6-b9e8ec43739e")
 		(property "Reference" "P10"
 			(at 86.614 248.666 0)
@@ -24592,7 +24934,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 85.09 251.46 0)
 			(effects
 				(font
@@ -24601,7 +24943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "hellen-one-common:PAD-TH"
+		(property "Footprint" "Impronte-mie:PAD-TH-senza-serigrafia"
 			(at 85.09 252.73 0)
 			(effects
 				(font
@@ -24620,6 +24962,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 85.09 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 85.09 248.92 0)
 			(effects
 				(font
@@ -24647,7 +24998,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "da129c40-0637-4293-bd95-77728e598c76")
 		(property "Reference" "P7"
 			(at 315.722 208.28 90)
@@ -24658,7 +25009,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 317.5 208.28 0)
 			(effects
 				(font
@@ -24686,6 +25037,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 320.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 320.04 208.28 0)
 			(effects
 				(font
@@ -24778,7 +25138,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "df020caf-5e9e-4b69-a553-8212cdd0ab35")
 		(property "Reference" "P4"
 			(at 323.85 250.19 0)
@@ -24789,7 +25149,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad"
+		(property "Value" "DNP"
 			(at 322.58 252.73 0)
 			(effects
 				(font
@@ -24817,6 +25177,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 322.58 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 322.58 250.19 0)
 			(effects
 				(font
@@ -24910,7 +25279,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ea318b7e-3858-47d1-a628-a4bdddb5052f")
 		(property "Reference" "R41"
 			(at 300.99 397.51 0)
@@ -24956,6 +25325,15 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 311.15 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 311.15 398.78 0)
 			(effects
 				(font
@@ -25314,6 +25692,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 335.28 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf55c8fd-7b71-4b03-845f-cfd10f675a90")
 		)
@@ -25342,7 +25729,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f7769ca0-70ab-4293-9f54-745ada1ffaf8")
 		(property "Reference" "R39"
 			(at 300.99 392.43 0)
@@ -25388,6 +25775,15 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 311.15 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 311.15 393.7 0)
 			(effects
 				(font
@@ -25492,7 +25888,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fad9d3b2-2680-49a5-a37c-068e70812097")
 		(property "Reference" "R38"
 			(at 300.99 387.35 0)
@@ -25546,6 +25942,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 311.15 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "980b1523-da91-497e-96c8-da811d86cb07")
 		)
@@ -25574,7 +25979,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fc171e8d-961b-4499-baee-dd5ea13a9968")
 		(property "Reference" "M1"
@@ -25612,6 +26017,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 153.67 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 153.67 372.11 0)
 			(effects
 				(font
@@ -25818,7 +26232,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "DC_MOTOR_0.1.kicad_sch"
+		(property "Sheetfile" "DC_MOTOR_1.kicad_sch"
 			(at 190.5 211.4046 0)
 			(effects
 				(font
@@ -26276,6 +26690,114 @@
 		)
 	)
 	(sheet
+		(at 190.5 214.63)
+		(size 17.78 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9e90b609-2eb3-485f-902e-29c102645d4b")
+		(property "Sheetname" "DC Driver 2"
+			(at 190.5 213.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC_MOTOR_2.kicad_sch"
+			(at 190.5 227.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWR" passive
+			(at 190.5 217.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dc2f8f13-35f1-4773-bf83-78947b6fe0b8")
+		)
+		(pin "3V3" passive
+			(at 208.28 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "add8bc1c-d4ec-449c-b465-f0e5809d8f20")
+		)
+		(pin "DIS" input
+			(at 208.28 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "98f093a2-3136-42f0-9eac-8d63acea2caf")
+		)
+		(pin "DIR" input
+			(at 208.28 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "65a0a1a7-a052-4120-a52c-769e9551a227")
+		)
+		(pin "PWM" input
+			(at 208.28 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "de608cf2-dd99-489d-a3f2-cdfdcada939e")
+		)
+		(pin "OUT+" output
+			(at 190.5 219.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ca6109f0-e9ec-450f-9547-e078512641dd")
+		)
+		(pin "OUT-" output
+			(at 190.5 222.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3ae0f759-a894-4326-889b-d782698aa548")
+		)
+		(instances
+			(project "MST01"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 204.47 181.61)
 		(size 17.78 12.7)
 		(stroke
@@ -26389,119 +26911,6 @@
 			(project "MST01"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 190.5 214.63)
-		(size 17.78 12.7)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "b2716558-3a44-4e63-a5d7-5409c167071f")
-		(property "Sheetname" "DC Driver 2"
-			(at 200.66 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DC_MOTOR_0.1.kicad_sch"
-			(at 190.5 227.9146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "OUT+" output
-			(at 190.5 219.71 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "63aaa17f-7dff-4c61-8b13-4c0f7101a2ed")
-		)
-		(pin "OUT-" output
-			(at 190.5 222.25 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "22b54dc6-e6e4-4881-ae44-457f11af15ad")
-		)
-		(pin "PWR" passive
-			(at 190.5 217.17 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "aa233167-3422-4ce6-9e75-b825a0eb1ee7")
-		)
-		(pin "PWM" input
-			(at 208.28 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "698dc1b3-80fc-40fc-beaa-7656485e66ce")
-		)
-		(pin "DIR" input
-			(at 208.28 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "daae6888-44d5-46f6-b271-19086a01c115")
-		)
-		(pin "DIS" input
-			(at 208.28 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "50391f7b-9d03-44b5-a5db-eec29306a798")
-		)
-		(pin "3V3" passive
-			(at 208.28 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "e649f223-864f-47ed-9134-29f6e9a1fae1")
-		)
-		(instances
-			(project "alphax_4ch"
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-					(page "5")
-				)
-			)
-			(project "MST01"
-				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
-					(page "4")
 				)
 			)
 		)

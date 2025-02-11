@@ -1067,6 +1067,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 87.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85bdacef-e0e7-4f11-948a-f290d7dcc72a")
 		)
@@ -1228,6 +1237,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 128.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1844381-715c-4f44-9eb7-7e9f9f71f75a")
 		)
@@ -1375,6 +1393,15 @@
 		)
 		(property "LCSC" "C377942"
 			(at 76.2 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 87.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1610,6 +1637,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 105.41 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "622abbe5-5845-40c5-9602-a1614832a911")
 		)
@@ -1690,6 +1726,15 @@
 		)
 		(property "LCSC" "C377942"
 			(at 76.2 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 87.63 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1992,6 +2037,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 105.41 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63d9ba03-8f84-4d54-ba35-cd16bb9ea1fe")
 		)
@@ -2078,6 +2132,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 128.27 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab123ae6-d0cb-40a1-8a99-7e41dc2fd4dc")
 		)
@@ -2156,6 +2219,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 105.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 105.41 93.98 0)
 			(effects
 				(font
@@ -2309,6 +2381,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 128.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 128.27 62.23 0)
 			(effects
 				(font

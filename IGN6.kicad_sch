@@ -1061,7 +1061,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "007e3d0d-aa46-4fe8-b808-b02941d83161")
 		(property "Reference" "Q?"
 			(at 115.7986 124.5616 0)
@@ -1072,7 +1072,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ISL9V3040D3ST"
+		(property "Value" "DNP"
 			(at 115.7986 126.873 0)
 			(effects
 				(font
@@ -1117,7 +1117,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 114.3 129.54 0)
 			(effects
 				(font
@@ -1173,7 +1173,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "028c9778-3f5d-48d2-8232-969b84ce0fe7")
 		(property "Reference" "R14"
 			(at 177.4796 90.0653 0)
@@ -1183,7 +1183,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "DNP"
 			(at 177.8 92.71 0)
 			(effects
 				(font
@@ -1219,6 +1219,15 @@
 			)
 		)
 		(property "LCSC" "C25469"
+			(at 182.88 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -1310,6 +1319,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 186.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a084700d-d248-46cd-bf8f-1705319db551")
 		)
@@ -1379,6 +1397,15 @@
 			)
 		)
 		(property "LCSC" "C23345"
+			(at 125.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 125.73 69.85 0)
 			(effects
 				(font
@@ -1462,6 +1489,15 @@
 			)
 		)
 		(property "LCSC" "C25469"
+			(at 182.88 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 182.88 64.77 0)
 			(effects
 				(font
@@ -1687,6 +1723,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 172.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9410baa8-49ce-46aa-8db0-c16f0e5324b4")
 		)
@@ -1762,6 +1807,15 @@
 			)
 		)
 		(property "LCSC" "C23345"
+			(at 125.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 125.73 97.79 0)
 			(effects
 				(font
@@ -1853,6 +1907,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 135.89 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7c8df4b-c23e-46ed-9d96-9a7a7d330e9a")
 		)
@@ -1929,6 +1992,15 @@
 		)
 		(property "LCSC" "C369141"
 			(at 186.69 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 186.69 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2026,7 +2098,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5a21e231-a92c-4570-b132-2decd3096709")
 		(property "Reference" "Q?"
 			(at 115.7986 68.6816 0)
@@ -2037,7 +2109,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ISL9V3040D3ST"
+		(property "Value" "DNP"
 			(at 115.7986 70.993 0)
 			(effects
 				(font
@@ -2082,7 +2154,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 114.3 73.66 0)
 			(effects
 				(font
@@ -2192,6 +2264,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 125.73 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8dcb465a-4116-45bc-bc53-49fd1f2c303a")
 		)
@@ -2221,7 +2302,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6b800909-d074-4dbe-a04b-e4cb2b67c2b1")
 		(property "Reference" "Q?"
 			(at 115.7986 96.6216 0)
@@ -2232,7 +2313,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ISL9V3040D3ST"
+		(property "Value" "DNP"
 			(at 115.7986 98.933 0)
 			(effects
 				(font
@@ -2277,7 +2358,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 114.3 101.6 0)
 			(effects
 				(font
@@ -2454,6 +2535,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 139.7 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb105802-6d4a-412e-b934-6ab57ebf29f4")
 		)
@@ -2477,7 +2567,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "75753624-419d-4d0d-b38b-3a92704c17d2")
 		(property "Reference" "Q?"
 			(at 162.7886 68.6816 0)
@@ -2488,7 +2578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ISL9V3040D3ST"
+		(property "Value" "DNP"
 			(at 162.7886 70.993 0)
 			(effects
 				(font
@@ -2533,7 +2623,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 161.29 73.66 0)
 			(effects
 				(font
@@ -2643,6 +2733,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 172.72 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54979ef6-fcf2-47d5-ba37-4f5981a6c727")
 		)
@@ -2726,6 +2825,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 139.7 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2e05eb9-4555-4cb9-830b-766402befc6d")
 		)
@@ -2796,7 +2904,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 167.64 125.73 0)
 			(effects
 				(font
@@ -2805,7 +2913,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 161.29 129.54 0)
 			(effects
 				(font
@@ -2861,7 +2969,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ab9afe23-91d4-41b5-a028-863e1e09e407")
 		(property "Reference" "R14"
 			(at 177.4796 118.0053 0)
@@ -2871,7 +2979,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "DNP"
 			(at 177.8 120.65 0)
 			(effects
 				(font
@@ -2907,6 +3015,15 @@
 			)
 		)
 		(property "LCSC" "C25469"
+			(at 182.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -2998,6 +3115,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 135.89 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "088835d9-ca5c-417c-9f0b-b57b199d81c7")
 		)
@@ -3073,6 +3199,15 @@
 			)
 		)
 		(property "LCSC" "C23345"
+			(at 172.72 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
 			(at 172.72 69.85 0)
 			(effects
 				(font
@@ -3231,6 +3366,15 @@
 				(hide yes)
 			)
 		)
+		(property "MyComment" "x"
+			(at 135.89 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12a970ce-b08a-46ef-9be3-86481194fc09")
 		)
@@ -3307,7 +3451,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -3316,7 +3460,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" "x"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -3419,6 +3563,15 @@
 		)
 		(property "LCSC" "C369141"
 			(at 186.69 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 186.69 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3563,6 +3716,15 @@
 		)
 		(property "LCSC" "C369141"
 			(at 139.7 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 139.7 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
