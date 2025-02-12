@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example-non-cancellare/hellen-example-non-cancellare/MST01.kicad_sch</source>
-    <date>2025-02-12T14:39:22+0000</date>
+    <date>2025-02-12T18:00:37+0000</date>
     <tool>Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -368,17 +368,17 @@
       <footprint>ampseal:ampseal-35-mia-con-pad-GND</footprint>
       <description>Nero</description>
       <fields>
-        <field name="MyComment">776231-1    Aliexpress</field>
-        <field name="LCSC"/>
-        <field name="Note-mie">DNP</field>
+        <field name="MyComment">Aliexpress</field>
+        <field name="LCSC">776231-1</field>
+        <field name="Note-mie"/>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Nero</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x36" description="Generic connector, single row, 01x36, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="776231-1    Aliexpress"/>
-      <property name="LCSC" value=""/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="MyComment" value="Aliexpress"/>
+      <property name="LCSC" value="776231-1"/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -391,17 +391,17 @@
       <footprint>ampseal:ampseal-35-mia-con-pad-GND</footprint>
       <description>Bianco</description>
       <fields>
-        <field name="MyComment">776231-4    Aliexpress</field>
-        <field name="LCSC"/>
-        <field name="Note-mie">DNP</field>
+        <field name="MyComment">Aliexpress</field>
+        <field name="LCSC">776231-4</field>
+        <field name="Note-mie"/>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Bianco</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x36" description="Generic connector, single row, 01x36, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="776231-4    Aliexpress"/>
-      <property name="LCSC" value=""/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="MyComment" value="Aliexpress"/>
+      <property name="LCSC" value="776231-4"/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -437,15 +437,15 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
-        <field name="MyComment">Ci sono</field>
-        <field name="Note-mie">DNP</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="Ci sono"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -826,17 +826,17 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C23162</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C23162</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C23162"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -906,17 +906,17 @@
       <value>0</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C21189</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C21189</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C21189"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C21189"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1006,17 +1006,17 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C17414</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C17414</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C17414"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1026,17 +1026,17 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C17414</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C17414</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C17414"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1046,17 +1046,17 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C17414</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C17414</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C17414"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1069,9 +1069,8 @@
         <field name="PARTREV">v1.0</field>
         <field name="MF">HuiCheng</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="LCSC"/>
-        <field name="MyComment">C9900001612   Aliexpress</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C9900001612</field>
+        <field name="MyComment">Aliexpress</field>
         <field name="Footprint">Impronte-mie:JDY-33_mio</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1080,9 +1079,8 @@
       <property name="PARTREV" value="v1.0"/>
       <property name="MF" value="HuiCheng"/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C9900001612   Aliexpress"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C9900001612"/>
+      <property name="MyComment" value="Aliexpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1732,17 +1730,17 @@
       <value>TLE9201SG</value>
       <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C2653438</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C2653438</field>
+        <field name="MyComment">Aliexpress</field>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="TLE9201SG" description=""/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C2653438"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C2653438"/>
+      <property name="MyComment" value="Aliexpress"/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1752,17 +1750,17 @@
       <value>TLE9201SG</value>
       <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C2653438</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C2653438</field>
+        <field name="MyComment">Aliexpress</field>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="TLE9201SG" description=""/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C2653438"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C2653438"/>
+      <property name="MyComment" value="Aliexpress"/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -2248,17 +2246,17 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C462128</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C462128</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C462128"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C462128"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2269,17 +2267,17 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C462128</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C462128</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C462128"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C462128"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2290,17 +2288,17 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C462128</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C462128</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C462128"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C462128"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2311,17 +2309,17 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C462128</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C462128</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C462128"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C462128"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2574,17 +2572,17 @@
       <value>0</value>
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C25469</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C25469</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C25469"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C25469"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2594,17 +2592,17 @@
       <value>0</value>
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">C25469</field>
-        <field name="Note-mie">DNP</field>
+        <field name="LCSC">C25469</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="C25469"/>
-      <property name="Note-mie" value="DNP"/>
+      <property name="LCSC" value="C25469"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
