@@ -989,8 +989,11 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/2 DC Driver/PWR1": "DC_Driver_PWR",
+      "/2 DC Driver/PWR2": "DC_Driver_PWR",
       "/DC Driver 1/PWR": "DC_Driver_PWR",
       "/DC Driver 2/PWR": "DC_Driver_PWR",
+      "/DC2_PWM": "DC_Driver_PWR",
       "/OUT_DC1+": "DC_Driver_OUT",
       "/OUT_DC1-": "DC_Driver_OUT",
       "/OUT_DC2+": "DC_Driver_OUT",
@@ -1258,6 +1261,10 @@
       {
         "netclass": "EGT",
         "pattern": "/EGT/T-Filtrato"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/DC2_PWM"
       }
     ]
   },
@@ -1499,15 +1506,11 @@
     ],
     [
       "0c617583-4e3e-4059-8607-2ed650d520f4",
-      "DC Driver 1"
+      "2 DC Driver"
     ],
     [
       "aa4a40ff-b05c-4d24-92a7-fdeac4807f5c",
       "LS"
-    ],
-    [
-      "9e90b609-2eb3-485f-902e-29c102645d4b",
-      "DC Driver 2"
     ],
     [
       "c1e0fc38-44a5-4f4c-8a40-7ced112340c0",
