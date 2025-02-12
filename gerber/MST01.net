@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example-non-cancellare/hellen-example-non-cancellare/MST01.kicad_sch</source>
-    <date>2025-02-12T08:24:23+0000</date>
+    <date>2025-02-12T14:11:16+0000</date>
     <tool>Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -22,13 +22,13 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="2" name="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/">
+    <sheet number="2" name="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
         <rev>D</rev>
         <date>2024-08-15</date>
-        <source>DC_MOTOR_1.kicad_sch</source>
+        <source>2_DC_MOTOR.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -58,25 +58,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="4" name="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/">
-      <title_block>
-        <title>UAEFI</title>
-        <company>rusEFI.com</company>
-        <rev>D</rev>
-        <date>2024-08-15</date>
-        <source>DC_MOTOR_2.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
-        <comment number="4" value=""/>
-        <comment number="5" value=""/>
-        <comment number="6" value=""/>
-        <comment number="7" value=""/>
-        <comment number="8" value=""/>
-        <comment number="9" value=""/>
-      </title_block>
-    </sheet>
-    <sheet number="5" name="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/">
+    <sheet number="4" name="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
@@ -94,7 +76,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="6" name="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/">
+    <sheet number="5" name="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
@@ -112,7 +94,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="7" name="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/">
+    <sheet number="6" name="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
@@ -130,7 +112,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="8" name="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/">
+    <sheet number="7" name="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
@@ -148,7 +130,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="9" name="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/">
+    <sheet number="8" name="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
@@ -1121,9 +1103,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>2df61d17-96cd-49ca-b1dd-0d9a5db51649</tstamps>
     </comp>
     <comp ref="C2">
@@ -1141,9 +1123,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>f1bb829e-557f-4c5b-9ff1-e1d077607e17</tstamps>
     </comp>
     <comp ref="C3">
@@ -1161,9 +1143,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>fd528b42-8643-4829-8760-8a597dde178f</tstamps>
     </comp>
     <comp ref="C4">
@@ -1181,9 +1163,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>43d66f86-b098-49c6-8eff-768214bc5833</tstamps>
     </comp>
     <comp ref="C5">
@@ -1201,9 +1183,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>12931f60-0140-4bfb-9764-82cf203c0685</tstamps>
     </comp>
     <comp ref="C6">
@@ -1221,9 +1203,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>843ef8bf-1b91-479b-955a-b7bb32090b45</tstamps>
     </comp>
     <comp ref="C7">
@@ -1241,9 +1223,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>0aa7263b-5269-4cc8-81ae-b16c6e37659b</tstamps>
     </comp>
     <comp ref="C8">
@@ -1261,9 +1243,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>18cddb39-0574-4ac7-b2b4-f179078241d6</tstamps>
     </comp>
     <comp ref="C9">
@@ -1281,9 +1263,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>56b29a34-925c-4a11-83e0-36e3d21553fd</tstamps>
     </comp>
     <comp ref="C10">
@@ -1301,9 +1283,9 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>157a7f1b-804a-4883-910b-5d781043b889</tstamps>
     </comp>
     <comp ref="C11">
@@ -1321,9 +1303,9 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>3122e3a6-7648-4d42-b1be-0e4790b228e3</tstamps>
     </comp>
     <comp ref="C12">
@@ -1341,9 +1323,9 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>b6709772-fed1-4f5c-a39d-4acba343b38d</tstamps>
     </comp>
     <comp ref="C13">
@@ -1361,10 +1343,310 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>26d1377d-c8f9-49a3-8866-14d63cad4c3d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>40425fe7-91c3-4af8-9d51-fb1fe3cb9e71</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>afca3905-9553-4397-91a9-6bf2ec9f1dc3</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>0b31fb9c-2683-4917-88b2-bd20b7b8ce01</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>f8afcc40-11d1-47dc-a0e2-855549e2e4ec</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>e1df0cc9-fc0c-45fe-b206-372e161d01b3</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>7421b46e-86ae-432b-8711-02ea4855ce07</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>86c4441d-a797-4afa-9b41-5df19776b2a6</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>c34f9453-c90a-4840-ae59-6433bcc02033</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>c15daaed-a529-4b75-9f35-a12723306c68</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10u</value>
+      <footprint>hellen-one-common:C0805</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>155051a1-a6ff-4ada-b6d9-067471984355</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>77cf6ea6-ac55-43f9-aa2c-c0504689010f</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C57112</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C57112"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>7266ac55-8e4e-4255-9afe-e822f49c3ccf</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C57112</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:C0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C57112"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>179d7325-583e-41d5-86b1-c5782a0391c4</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>Pad</value>
+      <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
+      <fields>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>b4cc98a7-7b73-4fa0-bd25-dc636b60deeb</tstamps>
+    </comp>
+    <comp ref="P12">
+      <value>Pad</value>
+      <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
+      <fields>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>2700f7ec-762d-4a8d-af4b-0cde8ed05091</tstamps>
     </comp>
     <comp ref="P15">
       <value>Pad</value>
@@ -1379,11 +1661,11 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>6ff5918d-df33-4f34-b306-0432b1e57a5f</tstamps>
     </comp>
     <comp ref="P17">
@@ -1399,12 +1681,32 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>d19de2e2-66fd-4baf-9764-a84ff8a10163</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7k</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23162</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">hellen-one-common:R0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>d7cb907b-f909-4849-aa10-5bc4964e784d</tstamps>
     </comp>
     <comp ref="R9">
       <value>4.7k</value>
@@ -1421,9 +1723,9 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value=""/>
       <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>81967aba-9c78-4104-a4dd-c546f0334943</tstamps>
     </comp>
     <comp ref="U1">
@@ -1441,10 +1743,30 @@
       <property name="LCSC" value=""/>
       <property name="MyComment" value="C2653438"/>
       <property name="Note-mie" value="DNP"/>
-      <property name="Sheetname" value="DC Driver 1"/>
-      <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>83d9d01e-c0b7-4046-b272-c2f17792888d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLE9201SG</value>
+      <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
+      <fields>
+        <field name="LCSC">C2653438</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
+        <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="chips" part="TLE9201SG" description=""/>
+      <property name="LCSC" value="C2653438"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
+      <property name="Sheetname" value="2 DC Driver"/>
+      <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
+      <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
+      <tstamps>a7a8f417-9200-4849-916a-92803443f9c5</tstamps>
     </comp>
     <comp ref="D2">
       <value>B5819W</value>
@@ -1645,346 +1967,6 @@
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
       <tstamps>54b47e04-0442-472d-9811-0033f41bf6e0</tstamps>
-    </comp>
-    <comp ref="C14">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>8c6fd1fe-9fd4-4403-830a-a8fc4f432631</tstamps>
-    </comp>
-    <comp ref="C15">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>f382b631-1024-45bb-b0c5-28c8ba64e33b</tstamps>
-    </comp>
-    <comp ref="C16">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>628a9813-7de7-4d2a-8f60-2a80dd49b9bc</tstamps>
-    </comp>
-    <comp ref="C17">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>8272e2e9-113d-4a3e-af8d-b341be341085</tstamps>
-    </comp>
-    <comp ref="C18">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>528d0d04-5d91-4eb5-abcf-96f927f78f5a</tstamps>
-    </comp>
-    <comp ref="C19">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>4373ba54-d792-4bd2-a06f-327a8366ec8f</tstamps>
-    </comp>
-    <comp ref="C20">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>b8958550-ab0e-4ff1-9ac3-15075a9550cf</tstamps>
-    </comp>
-    <comp ref="C21">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>96f9948a-e6e1-4357-a71b-200968a3d3fd</tstamps>
-    </comp>
-    <comp ref="C22">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>01caac17-0a5c-4c65-bb3e-764db1be9e63</tstamps>
-    </comp>
-    <comp ref="C23">
-      <value>10u</value>
-      <footprint>hellen-one-common:C0805</footprint>
-      <fields>
-        <field name="LCSC">C15850</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0805</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>93efdc3b-a12d-4978-a503-c4ae6fecb9f8</tstamps>
-    </comp>
-    <comp ref="C24">
-      <value>100n</value>
-      <footprint>hellen-one-common:C0603</footprint>
-      <fields>
-        <field name="LCSC">C14663</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0603</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>8deea5f7-2262-4b2c-9f4c-6bffb9cffe54</tstamps>
-    </comp>
-    <comp ref="C25">
-      <value>10n</value>
-      <footprint>hellen-one-common:C0603</footprint>
-      <fields>
-        <field name="LCSC">C57112</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0603</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>f9874692-5756-42b7-bf9c-dd605db2d14f</tstamps>
-    </comp>
-    <comp ref="C26">
-      <value>10n</value>
-      <footprint>hellen-one-common:C0603</footprint>
-      <fields>
-        <field name="LCSC">C57112</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:C0603</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
-      <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>fa6d36d6-89fc-4f6a-af0b-221e8f53b977</tstamps>
-    </comp>
-    <comp ref="P16">
-      <value>Pad</value>
-      <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
-      <fields>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <property name="ki_keywords" value="connector"/>
-      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>9faec45c-6d01-4dd8-b73d-cd669a0f016d</tstamps>
-    </comp>
-    <comp ref="P18">
-      <value>Pad</value>
-      <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
-      <fields>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <property name="ki_keywords" value="connector"/>
-      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>fb810003-c1bf-498b-9e16-7834ff8b980a</tstamps>
-    </comp>
-    <comp ref="R14">
-      <value>4.7k</value>
-      <footprint>hellen-one-common:R0603</footprint>
-      <fields>
-        <field name="LCSC">C23162</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">hellen-one-common:R0603</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>5a40d07f-95b9-4cdf-aa98-82a8968f1700</tstamps>
-    </comp>
-    <comp ref="U2">
-      <value>TLE9201SG</value>
-      <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
-      <fields>
-        <field name="LCSC">C2653438</field>
-        <field name="MyComment"/>
-        <field name="Note-mie"/>
-        <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="chips" part="TLE9201SG" description=""/>
-      <property name="LCSC" value="C2653438"/>
-      <property name="MyComment" value=""/>
-      <property name="Note-mie" value=""/>
-      <property name="Sheetname" value="DC Driver 2"/>
-      <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
-      <tstamps>577f875e-dc75-4c09-ab1f-cc3e4b1628cd</tstamps>
     </comp>
     <comp ref="R15">
       <value>4.7k</value>
@@ -3763,7 +3745,7 @@
   <nets>
     <net code="1" name="+3.3V">
       <node ref="M6" pin="N21" pinfunction="V33" pintype="passive"/>
-      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="VSO" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="VSO" pintype="passive"/>
@@ -3827,78 +3809,7 @@
       <node ref="M1" pin="V1" pinfunction="V12_PERM" pintype="passive"/>
       <node ref="M1" pin="V3" pinfunction="V12_RAW" pintype="passive"/>
     </net>
-    <net code="8" name="/12V_KEY">
-      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J1" pin="25" pinfunction="Pin_25" pintype="passive"/>
-    </net>
-    <net code="9" name="/ADC3">
-      <node ref="M6" pin="S15" pinfunction="IN_KNOCK_(PA2)" pintype="passive"/>
-      <node ref="R5" pin="2" pintype="passive"/>
-      <node ref="R6" pin="2" pintype="passive"/>
-    </net>
-    <net code="10" name="/AUX1">
-      <node ref="J2" pin="26" pinfunction="Pin_26" pintype="passive"/>
-      <node ref="M6" pin="S11" pinfunction="IN_O2S_/_CAN_WAKEUP_(PA0)" pintype="passive"/>
-    </net>
-    <net code="11" name="/AUX2">
-      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
-      <node ref="M6" pin="S10" pinfunction="IN_O2S2_(PA1)" pintype="passive"/>
-    </net>
-    <net code="12" name="/AUX3">
-      <node ref="J2" pin="25" pinfunction="Pin_25" pintype="passive"/>
-      <node ref="M6" pin="S7" pinfunction="IN_AUX3_(PA7)" pintype="passive"/>
-    </net>
-    <net code="13" name="/BUTTON1">
-      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
-      <node ref="M6" pin="S14" pinfunction="IN_CRANK_(PB1)" pintype="passive"/>
-      <node ref="R35" pin="2" pintype="passive"/>
-      <node ref="R38" pin="1" pintype="passive"/>
-    </net>
-    <net code="14" name="/BUTTON2">
-      <node ref="J2" pin="27" pinfunction="Pin_27" pintype="passive"/>
-      <node ref="M6" pin="S16" pinfunction="IN_CAM_(PA6)" pintype="passive"/>
-      <node ref="R36" pin="2" pintype="passive"/>
-      <node ref="R39" pin="1" pintype="passive"/>
-    </net>
-    <net code="15" name="/BUTTON3">
-      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
-      <node ref="M6" pin="S1" pinfunction="IN_D4_(PE15)" pintype="passive"/>
-      <node ref="R37" pin="2" pintype="passive"/>
-      <node ref="R40" pin="1" pintype="passive"/>
-    </net>
-    <net code="16" name="/CAN1+">
-      <node ref="J1" pin="35" pinfunction="Pin_35" pintype="passive"/>
-      <node ref="M5" pin="W4" pinfunction="CANH" pintype="passive"/>
-      <node ref="M6" pin="W11" pinfunction="CANH" pintype="passive"/>
-    </net>
-    <net code="17" name="/CAN1-">
-      <node ref="J1" pin="34" pinfunction="Pin_34" pintype="passive"/>
-      <node ref="M5" pin="W3" pinfunction="CANL" pintype="passive"/>
-      <node ref="M6" pin="W12" pinfunction="CANL" pintype="passive"/>
-    </net>
-    <net code="18" name="/CAN2+">
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="M7" pin="S2" pinfunction="CANH" pintype="passive"/>
-    </net>
-    <net code="19" name="/CAN2-">
-      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="M7" pin="S1" pinfunction="CANL" pintype="passive"/>
-    </net>
-    <net code="20" name="/CLT">
-      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
-      <node ref="M6" pin="S21" pinfunction="IN_CLT_(PC2)" pintype="passive"/>
-    </net>
-    <net code="21" name="/D+">
-      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J8" pin="3" pinfunction="D+" pintype="passive"/>
-      <node ref="M6" pin="N3" pinfunction="USBP_(PA12)" pintype="passive"/>
-    </net>
-    <net code="22" name="/D-">
-      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J8" pin="2" pinfunction="D-" pintype="passive"/>
-      <node ref="M6" pin="N2" pinfunction="USBM_(PA11)" pintype="passive"/>
-    </net>
-    <net code="23" name="/DC Driver 1/PWR">
+    <net code="8" name="/2 DC Driver/PWR1">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
@@ -3913,7 +3824,7 @@
       <node ref="F4" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="VS" pintype="passive"/>
     </net>
-    <net code="24" name="/DC Driver 2/PWR">
+    <net code="9" name="/2 DC Driver/PWR2">
       <node ref="C14" pin="2" pintype="passive"/>
       <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
@@ -3927,6 +3838,77 @@
       <node ref="C24" pin="2" pintype="passive"/>
       <node ref="F3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="VS" pintype="passive"/>
+    </net>
+    <net code="10" name="/12V_KEY">
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="25" pinfunction="Pin_25" pintype="passive"/>
+    </net>
+    <net code="11" name="/ADC3">
+      <node ref="M6" pin="S15" pinfunction="IN_KNOCK_(PA2)" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/AUX1">
+      <node ref="J2" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="M6" pin="S11" pinfunction="IN_O2S_/_CAN_WAKEUP_(PA0)" pintype="passive"/>
+    </net>
+    <net code="13" name="/AUX2">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="M6" pin="S10" pinfunction="IN_O2S2_(PA1)" pintype="passive"/>
+    </net>
+    <net code="14" name="/AUX3">
+      <node ref="J2" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="M6" pin="S7" pinfunction="IN_AUX3_(PA7)" pintype="passive"/>
+    </net>
+    <net code="15" name="/BUTTON1">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="M6" pin="S14" pinfunction="IN_CRANK_(PB1)" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/BUTTON2">
+      <node ref="J2" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="M6" pin="S16" pinfunction="IN_CAM_(PA6)" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/BUTTON3">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="M6" pin="S1" pinfunction="IN_D4_(PE15)" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/CAN1+">
+      <node ref="J1" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="M5" pin="W4" pinfunction="CANH" pintype="passive"/>
+      <node ref="M6" pin="W11" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="19" name="/CAN1-">
+      <node ref="J1" pin="34" pinfunction="Pin_34" pintype="passive"/>
+      <node ref="M5" pin="W3" pinfunction="CANL" pintype="passive"/>
+      <node ref="M6" pin="W12" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="20" name="/CAN2+">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M7" pin="S2" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="21" name="/CAN2-">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M7" pin="S1" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="22" name="/CLT">
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="M6" pin="S21" pinfunction="IN_CLT_(PC2)" pintype="passive"/>
+    </net>
+    <net code="23" name="/D+">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="D+" pintype="passive"/>
+      <node ref="M6" pin="N3" pinfunction="USBP_(PA12)" pintype="passive"/>
+    </net>
+    <net code="24" name="/D-">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="D-" pintype="passive"/>
+      <node ref="M6" pin="N2" pinfunction="USBM_(PA11)" pintype="passive"/>
     </net>
     <net code="25" name="/DC1_DIR">
       <node ref="M6" pin="E21" pinfunction="OUT_PWM4_(PC8)" pintype="passive"/>
@@ -3945,17 +3927,17 @@
     </net>
     <net code="28" name="/DC2_DIR">
       <node ref="M6" pin="E9" pinfunction="SPI2_MOSI_(PB15)" pintype="passive"/>
-      <node ref="P16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P12" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="DIR" pintype="passive"/>
     </net>
     <net code="29" name="/DC2_DIS">
       <node ref="M6" pin="N4" pinfunction="USBID_(PA10)" pintype="passive"/>
-      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
       <node ref="U2" pin="11" pinfunction="DIS" pintype="passive"/>
     </net>
     <net code="30" name="/DC2_PWM">
       <node ref="M6" pin="E22" pinfunction="OUT_PWM5_(PC9)" pintype="passive"/>
-      <node ref="P18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P11" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U2" pin="12" pinfunction="PWM" pintype="passive"/>
     </net>
     <net code="31" name="/EGT/SPI_CS">
