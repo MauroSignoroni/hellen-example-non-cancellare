@@ -20621,7 +20621,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C9900001612"
 			(at 357.886 191.262 0)
 			(effects
 				(font
@@ -20630,21 +20630,13 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C9900001612   Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 349.25 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "Note-mie" "DNP"
-			(at 365.506 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "19"
@@ -22337,7 +22329,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C21189"
 			(at 219.71 265.43 0)
 			(effects
 				(font
@@ -22346,7 +22338,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C21189"
+		(property "MyComment" ""
 			(at 224.79 265.43 0)
 			(effects
 				(font
@@ -22355,12 +22347,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 224.536 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22727,7 +22720,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "Ci sono"
+		(property "MyComment" ""
 			(at 251.46 85.09 0)
 			(effects
 				(font
@@ -22736,12 +22729,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 261.874 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -22821,7 +22815,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "776231-4    Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 63.5 129.54 0)
 			(effects
 				(font
@@ -22830,7 +22824,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "776231-4"
 			(at 63.5 129.54 0)
 			(effects
 				(font
@@ -22839,12 +22833,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 58.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -23557,7 +23552,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "776231-1    Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 63.5 228.6 0)
 			(effects
 				(font
@@ -23566,7 +23561,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "776231-1"
 			(at 63.5 228.6 0)
 			(effects
 				(font
@@ -23575,12 +23570,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 58.674 223.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "14"
@@ -24901,7 +24897,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23162"
 			(at 127 313.69 0)
 			(effects
 				(font
@@ -24910,7 +24906,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C23162"
+		(property "MyComment" ""
 			(at 132.08 313.69 0)
 			(effects
 				(font
@@ -24919,12 +24915,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 127.508 315.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25625,7 +25622,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 311.15 398.78 0)
 			(effects
 				(font
@@ -25634,7 +25631,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 311.15 398.78 0)
 			(effects
 				(font
@@ -25643,12 +25640,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 308.61 396.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26092,7 +26090,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 311.15 393.7 0)
 			(effects
 				(font
@@ -26101,7 +26099,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 311.15 393.7 0)
 			(effects
 				(font
@@ -26110,12 +26108,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 308.356 391.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26259,7 +26258,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 311.15 388.62 0)
 			(effects
 				(font
@@ -26268,7 +26267,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 311.15 388.62 0)
 			(effects
 				(font
@@ -26277,12 +26276,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 308.356 386.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"

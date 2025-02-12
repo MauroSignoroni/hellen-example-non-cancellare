@@ -3489,7 +3489,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25469"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3502,7 +3502,7 @@
 				)
 			)
 		)
-		(property "MyComment" "C25469"
+		(property "MyComment" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3515,7 +3515,7 @@
 				)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4866,7 +4866,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F6"
-			(at 0.41625 -2.1225 180)
+			(at -0.03 -3.27 180)
 			(layer "F.SilkS")
 			(uuid "b565770d-38e8-4961-86c5-146782dd16cd")
 			(effects
@@ -12248,7 +12248,7 @@
 				)
 			)
 		)
-		(property "MyComment" "776231-4    Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12261,7 +12261,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "776231-4"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12274,7 +12274,7 @@
 				)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14819,7 +14819,7 @@
 		(uuid "99835e84-652c-48ce-9a92-bf23a2e48d0d")
 		(at 73.43 95.08 180)
 		(property "Reference" "R15"
-			(at 1.26 0.89 0)
+			(at 1.21 1.9 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d8e21a1f-7b40-406d-b48b-b4dffcfdcdd7")
@@ -15890,7 +15890,7 @@
 		(uuid "a2958335-2fbe-4a7f-99fe-0256033fdf56")
 		(at 81.08 71.9 -90)
 		(property "Reference" "R17"
-			(at 2.49 1.12 0)
+			(at -0.71 -2.62 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0c397f25-7cd9-43b9-9be6-4f6d152bff99")
@@ -16701,7 +16701,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F5"
-			(at 0.19375 -1.63 180)
+			(at 0.83 -3.01 180)
 			(layer "F.SilkS")
 			(uuid "b5a4fadb-4e4a-4fce-b9bf-9122aa6f9b6c")
 			(effects
@@ -20290,7 +20290,7 @@
 		(uuid "bc751e03-56af-433e-9db7-85c5df893675")
 		(at 75 82.13 -90)
 		(property "Reference" "R18"
-			(at 2.48 1.095 0)
+			(at 0.29 -2.36 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a2c55cd3-0513-4847-976c-d74ab285302f")
@@ -21076,7 +21076,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R20"
-			(at 1.21 3.31 180)
+			(at 0.43 3.59 180)
 			(layer "F.SilkS")
 			(uuid "85c3140b-181b-4167-8b22-7c4c57a6b4c6")
 			(effects
@@ -21421,7 +21421,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C9900001612"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21434,25 +21434,12 @@
 				)
 			)
 		)
-		(property "MyComment" "C9900001612   Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c5e97aa-62d5-41d1-8afe-c0d147cfc3ea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Note-mie" "DNP"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a0bf5baa-94eb-4dfa-9677-69d442594eab")
 			(effects
 				(font
 					(size 1 1)
@@ -24117,7 +24104,7 @@
 				)
 			)
 		)
-		(property "MyComment" "Ci sono"
+		(property "MyComment" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24130,7 +24117,7 @@
 				)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25245,7 +25232,7 @@
 				)
 			)
 		)
-		(property "MyComment" "776231-1    Aliexpress"
+		(property "MyComment" "Aliexpress"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25258,7 +25245,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "776231-1"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25271,7 +25258,7 @@
 				)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27324,7 +27311,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25469"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27337,7 +27324,7 @@
 				)
 			)
 		)
-		(property "MyComment" "C25469"
+		(property "MyComment" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27350,7 +27337,7 @@
 				)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28498,7 +28485,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -28511,7 +28498,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28525,7 +28512,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28664,7 +28651,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -28677,7 +28664,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28691,7 +28678,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29771,7 +29758,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 145.32 -209 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -29784,7 +29771,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 145.32 -209 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -29797,7 +29784,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30813,7 +30800,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23162"
 			(at 169.864994 -160.15 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30826,7 +30813,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C23162"
+		(property "MyComment" ""
 			(at 169.864994 -160.15 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30839,7 +30826,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31899,7 +31886,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31913,7 +31900,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31927,7 +31914,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33773,7 +33760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2653438"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33787,7 +33774,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C2653438"
+		(property "MyComment" "Aliexpress"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33801,7 +33788,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36610,7 +36597,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C17414"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -36623,7 +36610,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C17414"
+		(property "MyComment" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36637,7 +36624,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36940,7 +36927,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36954,7 +36941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36968,7 +36955,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38000,7 +37987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "Aliexpress"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39127,7 +39114,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C21189"
 			(at 8.7 205.1 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39140,7 +39127,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C21189"
+		(property "MyComment" ""
 			(at 8.7 205.1 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39153,7 +39140,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39776,7 +39763,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39790,7 +39777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39804,7 +39791,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")

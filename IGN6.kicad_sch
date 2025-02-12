@@ -1148,7 +1148,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 120.65 125.73 0)
 			(effects
 				(font
@@ -1157,7 +1157,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 114.3 129.54 0)
 			(effects
 				(font
@@ -1166,12 +1166,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 111.506 130.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1267,7 +1268,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25469"
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -1276,7 +1277,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C25469"
+		(property "MyComment" ""
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -1285,12 +1286,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 182.626 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2265,7 +2267,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 120.65 71.12 0)
 			(effects
 				(font
@@ -2274,7 +2276,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -2283,12 +2285,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 111.506 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2487,7 +2490,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 120.65 97.79 0)
 			(effects
 				(font
@@ -2496,7 +2499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 114.3 101.6 0)
 			(effects
 				(font
@@ -2505,12 +2508,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 112.522 101.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2770,7 +2774,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C462128"
 			(at 167.64 69.85 0)
 			(effects
 				(font
@@ -2779,7 +2783,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C462128"
+		(property "MyComment" ""
 			(at 161.29 73.66 0)
 			(effects
 				(font
@@ -2788,12 +2792,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 159.258 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3102,6 +3107,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Note-mie" ""
@@ -3206,7 +3212,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25469"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -3215,7 +3221,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "C25469"
+		(property "MyComment" ""
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -3224,12 +3230,13 @@
 				(hide yes)
 			)
 		)
-		(property "Note-mie" "DNP"
+		(property "Note-mie" ""
 			(at 182.626 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3693,6 +3700,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Note-mie" ""

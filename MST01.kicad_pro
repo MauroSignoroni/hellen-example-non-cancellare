@@ -1433,12 +1433,6 @@
         },
         {
           "group_by": false,
-          "label": "Note-mie",
-          "name": "Note-mie",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "MyComment",
           "name": "MyComment",
           "show": true

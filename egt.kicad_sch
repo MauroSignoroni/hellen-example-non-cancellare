@@ -1437,7 +1437,7 @@
 		(dnp no)
 		(uuid "04a7e2ba-939e-46ce-8acf-be15c18c0aff")
 		(property "Reference" "U4"
-			(at 168.5641 80.01 0)
+			(at 156.21 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1446,7 +1446,7 @@
 			)
 		)
 		(property "Value" "MAX31855KASA"
-			(at 168.5641 82.55 0)
+			(at 151.892 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
