@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example-non-cancellare/hellen-example-non-cancellare/MST01.kicad_sch</source>
-    <date>2025-02-11T18:45:33+0000</date>
+    <date>2025-02-12T07:14:40+0000</date>
     <tool>Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -173,14 +173,16 @@
       <footprint>kicad6-libraries:CR1220-2</footprint>
       <fields>
         <field name="LCSC">C70381</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">kicad6-libraries:CR1220-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
       <property name="LCSC" value="C70381"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="battery cell"/>
@@ -192,14 +194,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -210,14 +214,16 @@
       <footprint>hellen-one-common:SOD-323</footprint>
       <fields>
         <field name="LCSC">C2128</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:SOD-323</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -228,14 +234,16 @@
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
         <field name="LCSC">C182446</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -246,14 +254,16 @@
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
         <field name="LCSC">C182446</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -264,14 +274,16 @@
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
         <field name="LCSC">C182446</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -282,14 +294,16 @@
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
         <field name="LCSC">C182446</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -299,16 +313,17 @@
       <value>RUSEFI_LOGO</value>
       <footprint>kicad6-libraries:rusefi_logo</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">kicad6-libraries:rusefi_logo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5410bd99-793b-410c-843c-7fecab530dce</tstamps>
     </comp>
@@ -316,16 +331,17 @@
       <value>LOGO</value>
       <footprint>hellen-one-common:LOGO</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:LOGO</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="LOGO" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4347b078-82b3-42ff-9148-446a131054dd</tstamps>
     </comp>
@@ -333,16 +349,17 @@
       <value>PROTO_AREA</value>
       <footprint>hellen-one-common:PROTO_AREA</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PROTO_AREA</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2866e143-f2a5-470d-8f86-9d7943f95206</tstamps>
     </comp>
@@ -350,58 +367,61 @@
       <value>PROTO_AREA</value>
       <footprint>hellen-one-common:PROTO_AREA</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PROTO_AREA</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0bd0e605-7e97-4790-b74e-fd4c35fadd99</tstamps>
     </comp>
     <comp ref="J1">
-      <value>DNP</value>
+      <value>AMPSeal-35-verticale-nero</value>
       <footprint>ampseal:ampseal-35-mia-con-pad-GND</footprint>
       <description>Nero</description>
       <fields>
-        <field name="MyComment">Aliexpress</field>
-        <field name="LCSC">776231-1</field>
+        <field name="MyComment">776231-1    Aliexpress</field>
+        <field name="LCSC"/>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Nero</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x36" description="Generic connector, single row, 01x36, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="Aliexpress"/>
-      <property name="LCSC" value="776231-1"/>
+      <property name="MyComment" value="776231-1    Aliexpress"/>
+      <property name="LCSC" value=""/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ac8ba4d6-51e9-4c59-abb5-2f2dcd923c07</tstamps>
     </comp>
     <comp ref="J2">
-      <value>DNP</value>
+      <value>AMPSeal-35-verticale-bianco</value>
       <footprint>ampseal:ampseal-35-mia-con-pad-GND</footprint>
       <description>Bianco</description>
       <fields>
-        <field name="MyComment">Aliexpress</field>
-        <field name="LCSC">776231-4</field>
+        <field name="MyComment">776231-4    Aliexpress</field>
+        <field name="LCSC"/>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Bianco</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x36" description="Generic connector, single row, 01x36, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="Aliexpress"/>
-      <property name="LCSC" value="776231-4"/>
+      <property name="MyComment" value="776231-4    Aliexpress"/>
+      <property name="LCSC" value=""/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -413,14 +433,16 @@
       <description>Generic connector, single row, 01x04, script generated</description>
       <fields>
         <field name="LCSC">C5305780</field>
-        <field name="MyComment">Ci sono</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
       <property name="LCSC" value="C5305780"/>
-      <property name="MyComment" value="Ci sono"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -429,20 +451,21 @@
       <tstamps>adafbdc1-5715-4e32-937e-136c30ba5ac9</tstamps>
     </comp>
     <comp ref="J6">
-      <value>DNP</value>
+      <value>Conn_01x05_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
         <field name="MyComment">Ci sono</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="Ci sono"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -453,14 +476,16 @@
       <footprint>hellen-one-common:USB-MINI-B-VERTICAL</footprint>
       <fields>
         <field name="LCSC">C13453</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:USB-MINI-B-VERTICAL</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="USB_B_Mini" description="USB Mini Type B connector"/>
       <property name="LCSC" value="C13453"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector USB mini"/>
@@ -472,16 +497,17 @@
       <value>Module-power_12and5V-0.2</value>
       <footprint>hellen-one-power_12and5V-0.2:power_12and5V</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-power_12and5V-0.2:power_12and5V</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-power_12and5V" part="Module-power_12and5V-0.2" description="Hellen-One Power_12and5V Module"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fc171e8d-961b-4499-baee-dd5ea13a9968</tstamps>
     </comp>
@@ -489,16 +515,17 @@
       <value>Module-knock-0.2</value>
       <footprint>hellen-one-knock-0.2:knock</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-knock-0.2:knock</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3b79a16e-5552-4c71-b880-ab92f2ee80d5</tstamps>
     </comp>
@@ -506,16 +533,17 @@
       <value>Module-vr-discrete-0.5</value>
       <footprint>hellen-one-vr-discrete-0.5:vr-discrete</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-vr-discrete-0.5:vr-discrete</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-vr-discrete-0.5" part="Module-vr-discrete-0.5" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>731a0a61-da34-4323-985d-e9d0afd49655</tstamps>
     </comp>
@@ -523,16 +551,17 @@
       <value>Module-vr-max9924-0.1</value>
       <footprint>hellen-one-vr-max9924-0.1:vr-max9924</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-vr-max9924-0.1:vr-max9924</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2daae34b-9306-4736-8f6d-3e5b5818b32e</tstamps>
     </comp>
@@ -540,16 +569,17 @@
       <value>Module-wbo-0.5</value>
       <footprint>hellen-one-wbo-0.5:wbo</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-wbo-0.5:wbo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-wbo-0.5" part="Module-wbo-0.5" description=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7bd3e2b2-1d2d-4d27-ae40-93a1cb2e73e4</tstamps>
     </comp>
@@ -567,7 +597,8 @@
         <field name="SUPPLIER 3">LCSC</field>
         <field name="SUPPLIER PART NUMBER 3"/>
         <field name="TYPE">Module</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-mega-mcu100-0.3:mega-mcu100</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -583,10 +614,10 @@
       <property name="SUPPLIER 3" value="LCSC"/>
       <property name="SUPPLIER PART NUMBER 3" value=""/>
       <property name="TYPE" value="Module"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU100_0.1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4a3a80c0-5ff2-431a-af30-5d326e11bdc6</tstamps>
@@ -595,225 +626,237 @@
       <value>Module-can-0.1</value>
       <footprint>hellen-one-can-0.1:can</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-can-0.1:can</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9217789a-2280-4fd8-bd3a-46478a9cc961</tstamps>
     </comp>
     <comp ref="P1">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c8606c52-58e1-4ecc-9038-21584d22eb76</tstamps>
     </comp>
     <comp ref="P2">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>aed18222-441c-4695-a368-c31109a3eada</tstamps>
     </comp>
     <comp ref="P3">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94ab989b-48b4-4335-bcf4-3438b3866d3d</tstamps>
     </comp>
     <comp ref="P4">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>df020caf-5e9e-4b69-a553-8212cdd0ab35</tstamps>
     </comp>
     <comp ref="P5">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d7600ea-b95f-40c7-a7af-4d0209a19d98</tstamps>
     </comp>
     <comp ref="P6">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b59e811-3981-46db-b21c-8cf87643fa1f</tstamps>
     </comp>
     <comp ref="P7">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>da129c40-0637-4293-bd95-77728e598c76</tstamps>
     </comp>
     <comp ref="P8">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2109366e-1742-401b-abc8-92b063de393e</tstamps>
     </comp>
     <comp ref="P9">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>hellen-one-common:PAD-TH</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>750e7b11-aa26-4cff-a945-3bd7ae2e439c</tstamps>
     </comp>
     <comp ref="P10">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7ba5e41-a96e-44fc-87f6-b9e8ec43739e</tstamps>
     </comp>
     <comp ref="R1">
-      <value>DNP</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C23162</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C23162"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cf5e44dc-f2f2-420a-a344-a39b21d6ffb4</tstamps>
     </comp>
@@ -822,14 +865,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C4216</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C4216"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -840,14 +885,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23212</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23212"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -858,35 +905,38 @@
       <footprint>hellen-one-common:PAD-0805-PAD</footprint>
       <fields>
         <field name="LCSC">C17477</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1b4123e5-2c6c-405d-b04f-fd27f68ef7bf</tstamps>
     </comp>
     <comp ref="R5">
-      <value>DNP</value>
+      <value>0</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C21189</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C21189"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8220251e-60b3-45ef-9d1e-f484711a91f3</tstamps>
     </comp>
@@ -895,14 +945,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C21189</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21189"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -913,14 +965,16 @@
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC">C17414</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -931,14 +985,16 @@
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC">C17414</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -949,85 +1005,91 @@
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC">C17414</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2bf03350-ae97-4dad-ab2e-783ee3977d4c</tstamps>
     </comp>
     <comp ref="R38">
-      <value>DNP</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C17414</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C17414"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fad9d3b2-2680-49a5-a37c-068e70812097</tstamps>
     </comp>
     <comp ref="R39">
-      <value>DNP</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C17414</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C17414"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f7769ca0-70ab-4293-9f54-745ada1ffaf8</tstamps>
     </comp>
     <comp ref="R40">
-      <value>DNP</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C17414</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C17414"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea318b7e-3858-47d1-a628-a4bdddb5052f</tstamps>
     </comp>
     <comp ref="U5">
-      <value>JDY-33-mio</value>
+      <value>JDY-33</value>
       <footprint>Impronte-mie:JDY-33_mio</footprint>
       <fields>
         <field name="PARTREV">v1.0</field>
         <field name="MF">HuiCheng</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="LCSC">C9900001612</field>
-        <field name="MyComment">Aliexpress</field>
+        <field name="LCSC"/>
+        <field name="MyComment">C9900001612   Aliexpress</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Impronte-mie:JDY-33_mio</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1036,11 +1098,11 @@
       <property name="PARTREV" value="v1.0"/>
       <property name="MF" value="HuiCheng"/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
-      <property name="LCSC" value="C9900001612"/>
-      <property name="MyComment" value="Aliexpress"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="C9900001612   Aliexpress"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4caab913-7628-43be-8c64-9fc187a388e8</tstamps>
     </comp>
@@ -1049,14 +1111,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1067,14 +1131,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1085,14 +1151,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1103,14 +1171,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1121,14 +1191,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1139,14 +1211,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1157,14 +1231,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1175,14 +1251,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1193,14 +1271,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1211,14 +1291,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1229,14 +1311,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1247,14 +1331,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1265,52 +1351,56 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>26d1377d-c8f9-49a3-8866-14d63cad4c3d</tstamps>
     </comp>
     <comp ref="P15">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>6ff5918d-df33-4f34-b306-0432b1e57a5f</tstamps>
     </comp>
     <comp ref="P17">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1321,14 +1411,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1338,18 +1430,19 @@
       <value>TLE9201SG</value>
       <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
       <fields>
-        <field name="LCSC">C2653438</field>
-        <field name="MyComment">x</field>
+        <field name="LCSC"/>
+        <field name="MyComment">C2653438</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="TLE9201SG" description=""/>
-      <property name="LCSC" value="C2653438"/>
-      <property name="MyComment" value="x"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="C2653438"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="DC Driver 1"/>
       <property name="Sheetfile" value="DC_MOTOR_1.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/DC Driver 1/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
       <tstamps>83d9d01e-c0b7-4046-b272-c2f17792888d</tstamps>
     </comp>
@@ -1358,14 +1451,16 @@
       <footprint>hellen-one-common:SOD-123</footprint>
       <fields>
         <field name="LCSC">C8598</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1376,14 +1471,16 @@
       <footprint>hellen-one-common:SOD-123</footprint>
       <fields>
         <field name="LCSC">C8598</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1394,14 +1491,16 @@
       <footprint>hellen-one-common:SOD-123</footprint>
       <fields>
         <field name="LCSC">C8598</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1412,14 +1511,16 @@
       <footprint>hellen-one-common:SOD-123</footprint>
       <fields>
         <field name="LCSC">C8598</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1430,14 +1531,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1448,14 +1551,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1466,14 +1571,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1484,14 +1591,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1502,14 +1611,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1520,14 +1631,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1538,14 +1651,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1556,14 +1671,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1574,14 +1691,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1592,14 +1711,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1610,14 +1731,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1628,14 +1751,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1646,14 +1771,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1664,14 +1791,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1682,14 +1811,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1700,14 +1831,16 @@
       <footprint>hellen-one-common:C0805</footprint>
       <fields>
         <field name="LCSC">C15850</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15850"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1718,14 +1851,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1736,14 +1871,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1754,52 +1891,56 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
       <tstamps>fa6d36d6-89fc-4f6a-af0b-221e8f53b977</tstamps>
     </comp>
     <comp ref="P16">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
       <tstamps>9faec45c-6d01-4dd8-b73d-cd669a0f016d</tstamps>
     </comp>
     <comp ref="P18">
-      <value>DNP</value>
+      <value>Pad</value>
       <footprint>Impronte-mie:PAD-TH-senza-serigrafia</footprint>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1810,14 +1951,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
@@ -1828,17 +1971,18 @@
       <footprint>Package_SO:Infineon_PG-DSO-12-11</footprint>
       <fields>
         <field name="LCSC">C2653438</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="TLE9201SG" description=""/>
       <property name="LCSC" value="C2653438"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="DC Driver 2"/>
       <property name="Sheetfile" value="DC_MOTOR_2.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/DC Driver 2/" tstamps="/9e90b609-2eb3-485f-902e-29c102645d4b/"/>
       <tstamps>577f875e-dc75-4c09-ab1f-cc3e4b1628cd</tstamps>
     </comp>
@@ -1847,14 +1991,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -1865,14 +2011,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -1883,14 +2031,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -1901,14 +2051,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -1919,17 +2071,18 @@
       <footprint>MountingHole:MountingHole_3mm</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">MountingHole:MountingHole_3mm</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -1940,17 +2093,18 @@
       <footprint>MountingHole:MountingHole_3mm</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">MountingHole:MountingHole_3mm</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -1961,14 +2115,16 @@
       <footprint>hellen-one-common:MPXH6400A-SSOP8</footprint>
       <fields>
         <field name="LCSC">C511770</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:MPXH6400A-SSOP8</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="MPX4_MAP" description=""/>
       <property name="LCSC" value="C511770"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -1979,14 +2135,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -1999,14 +2157,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2019,14 +2179,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2039,14 +2201,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2059,14 +2223,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2079,14 +2245,16 @@
       <footprint>Fuse:Fuse_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C369141</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="LCSC" value="C369141"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2095,81 +2263,85 @@
       <tstamps>02e392c0-f907-4220-80f8-b5f2c7dbb6e6</tstamps>
     </comp>
     <comp ref="Q7">
-      <value>DNP</value>
+      <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C462128</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C462128"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>5a21e231-a92c-4570-b132-2decd3096709</tstamps>
     </comp>
     <comp ref="Q8">
-      <value>DNP</value>
+      <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C462128</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C462128"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>6b800909-d074-4dbe-a04b-e4cb2b67c2b1</tstamps>
     </comp>
     <comp ref="Q9">
-      <value>DNP</value>
+      <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C462128</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C462128"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>007e3d0d-aa46-4fe8-b808-b02941d83161</tstamps>
     </comp>
     <comp ref="Q10">
-      <value>DNP</value>
+      <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC"/>
-        <field name="MyComment">x</field>
+        <field name="MyComment">C462128</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value=""/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value="C462128"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>75753624-419d-4d0d-b38b-3a92704c17d2</tstamps>
@@ -2179,14 +2351,16 @@
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC">C462128</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C462128"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2198,14 +2372,16 @@
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
         <field name="LCSC">C462128</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C462128"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2217,14 +2393,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2235,14 +2413,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2253,14 +2433,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2271,14 +2453,16 @@
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
         <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2289,14 +2473,16 @@
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
         <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2307,14 +2493,16 @@
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
         <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2325,14 +2513,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2343,14 +2533,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2361,14 +2553,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23345</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2379,54 +2573,58 @@
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
         <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>1d29929e-b36b-4b64-a56a-89b017c4f1d8</tstamps>
     </comp>
     <comp ref="R27">
-      <value>DNP</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
-        <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="LCSC"/>
+        <field name="MyComment">C25469</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="C25469"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>028c9778-3f5d-48d2-8232-969b84ce0fe7</tstamps>
     </comp>
     <comp ref="R28">
-      <value>DNP</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
       <fields>
-        <field name="LCSC">C25469</field>
-        <field name="MyComment">x</field>
+        <field name="LCSC"/>
+        <field name="MyComment">C25469</field>
+        <field name="Note-mie">DNP</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C25469"/>
-      <property name="MyComment" value="x"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="C25469"/>
+      <property name="Note-mie" value="DNP"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
-      <property name="dnp"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
       <tstamps>ab9afe23-91d4-41b5-a028-863e1e09e407</tstamps>
     </comp>
@@ -2435,14 +2633,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2453,14 +2653,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2471,14 +2673,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C57112</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C57112"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2489,14 +2693,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2507,14 +2713,16 @@
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C15849</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15849"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2527,14 +2735,16 @@
       <description>Dual Line CAN Bus Protector, 24Vrwm</description>
       <fields>
         <field name="LCSC">C284104</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF</field>
         <field name="Description">Dual Line CAN Bus Protector, 24Vrwm</field>
       </fields>
       <libsource lib="Power_Protection" part="NUP2105L" description="Dual Line CAN Bus Protector, 24Vrwm"/>
       <property name="LCSC" value="C284104"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="can esd protection suppression transient"/>
@@ -2547,14 +2757,16 @@
       <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C97853</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Inductor_SMD:L_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
       <property name="LCSC" value="C97853"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -2567,14 +2779,16 @@
       <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C97853</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Inductor_SMD:L_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
       <property name="LCSC" value="C97853"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -2589,14 +2803,16 @@
       <description>Cold Junction K-type Thermocouple Interface, SPI, SOIC-8</description>
       <fields>
         <field name="LCSC">C52028</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf</field>
         <field name="Description">Cold Junction K-type Thermocouple Interface, SPI, SOIC-8</field>
       </fields>
       <libsource lib="Sensor_Temperature" part="MAX31855KASA" description="Cold Junction K-type Thermocouple Interface, SPI, SOIC-8"/>
       <property name="LCSC" value="C52028"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="Maxim"/>
@@ -2609,14 +2825,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2627,14 +2845,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2645,14 +2865,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2663,14 +2885,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2681,14 +2905,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2699,14 +2925,16 @@
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
         <field name="LCSC">C23162</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2717,14 +2945,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2735,14 +2965,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2753,14 +2985,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="LCSC">C377942</field>
-        <field name="MyComment">x</field>
+        <field name="MyComment"/>
+        <field name="Note-mie"/>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="chips" part="VNLD5160" description=""/>
       <property name="LCSC" value="C377942"/>
-      <property name="MyComment" value="x"/>
+      <property name="MyComment" value=""/>
+      <property name="Note-mie" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
