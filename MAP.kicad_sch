@@ -804,7 +804,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 140.97 85.09 0)
 			(effects
 				(font
@@ -853,7 +862,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "866b9dbb-129c-4bb4-8bd7-ccc9afd690e9")
 		(property "Reference" "H1"
@@ -901,7 +910,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 124.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 124.46 109.22 0)
 			(effects
 				(font
@@ -994,7 +1012,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3a8b3dd-b25b-439d-be6b-fa308f07143b")
 		(property "Reference" "H2"
@@ -1042,7 +1060,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 148.59 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 148.59 109.22 0)
 			(effects
 				(font
@@ -1257,7 +1284,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 165.1 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 165.1 92.71 0)
 			(effects
 				(font

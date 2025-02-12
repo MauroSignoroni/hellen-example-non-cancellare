@@ -17554,7 +17554,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 339.09 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 339.09 232.41 0)
 			(effects
 				(font
@@ -18059,7 +18068,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0bd0e605-7e97-4790-b74e-fd4c35fadd99")
 		(property "Reference" "G4"
 			(at 41.91 449.58 0)
@@ -18106,7 +18115,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 45.72 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 45.72 450.85 0)
 			(effects
 				(font
@@ -18364,7 +18382,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 179.07 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 179.07 215.9 0)
 			(effects
 				(font
@@ -18456,7 +18483,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 199.39 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 199.39 389.89 0)
 			(effects
 				(font
@@ -18622,7 +18658,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2109366e-1742-401b-abc8-92b063de393e")
 		(property "Reference" "P8"
 			(at 324.612 208.28 90)
@@ -18633,7 +18669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 326.39 208.28 0)
 			(effects
 				(font
@@ -18669,7 +18705,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 328.93 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 328.93 208.28 0)
 			(effects
 				(font
@@ -18751,7 +18796,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 134.62 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 134.62 382.27 0)
 			(effects
 				(font
@@ -18788,7 +18842,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2866e143-f2a5-470d-8f86-9d7943f95206")
 		(property "Reference" "G3"
 			(at 27.94 449.58 0)
@@ -18835,7 +18889,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 31.75 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 31.75 450.85 0)
 			(effects
 				(font
@@ -18959,7 +19022,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 335.28 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 335.28 398.78 0)
 			(effects
 				(font
@@ -19053,12 +19125,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
 			(at 312.42 334.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Note-mie" ""
+			(at 307.34 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -19101,7 +19182,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2daae34b-9306-4736-8f6d-3e5b5818b32e")
 		(property "Reference" "M4"
 			(at 156.21 297.18 0)
@@ -19146,7 +19227,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 154.94 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 154.94 298.45 0)
 			(effects
 				(font
@@ -19259,7 +19349,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3b79a16e-5552-4c71-b880-ab92f2ee80d5")
 		(property "Reference" "M3"
 			(at 173.7361 330.3206 0)
@@ -19305,7 +19395,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 154.94 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 154.94 334.01 0)
 			(effects
 				(font
@@ -19674,7 +19773,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 179.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 179.07 199.39 0)
 			(effects
 				(font
@@ -19777,7 +19885,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4347b078-82b3-42ff-9148-446a131054dd")
 		(property "Reference" "G2"
@@ -19825,7 +19933,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 53.34 467.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 53.34 467.36 0)
 			(effects
 				(font
@@ -19904,7 +20021,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 335.28 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 335.28 388.62 0)
 			(effects
 				(font
@@ -19941,7 +20067,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a3a80c0-5ff2-431a-af30-5d326e11bdc6")
 		(property "Reference" "M6"
@@ -20087,7 +20213,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 248.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 248.92 138.43 0)
 			(effects
 				(font
@@ -20421,7 +20556,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 144.78 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 144.78 189.23 0)
 			(effects
 				(font
@@ -20462,8 +20606,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
+		(dnp no)
 		(uuid "4caab913-7628-43be-8c64-9fc187a388e8")
 		(property "Reference" "U5"
 			(at 358.14 191.77 0)
@@ -20473,7 +20616,7 @@
 				)
 			)
 		)
-		(property "Value" "JDY-33-mio"
+		(property "Value" "JDY-33"
 			(at 358.14 194.31 0)
 			(effects
 				(font
@@ -20540,7 +20683,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C9900001612"
+		(property "LCSC" ""
 			(at 357.886 191.262 0)
 			(effects
 				(font
@@ -20549,13 +20692,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "Aliexpress"
+		(property "MyComment" "C9900001612   Aliexpress"
 			(at 349.25 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 365.506 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "19"
@@ -20717,7 +20868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5410bd99-793b-410c-843c-7fecab530dce")
 		(property "Reference" "G1"
@@ -20765,7 +20916,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 36.83 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 36.83 472.44 0)
 			(effects
 				(font
@@ -20844,7 +21004,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 205.74 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 205.74 344.17 0)
 			(effects
 				(font
@@ -21072,7 +21241,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 153.67 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 153.67 179.07 0)
 			(effects
 				(font
@@ -21580,7 +21758,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "731a0a61-da34-4323-985d-e9d0afd49655")
 		(property "Reference" "M3"
@@ -21626,7 +21804,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 153.67 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 153.67 257.81 0)
 			(effects
 				(font
@@ -21672,7 +21859,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "750e7b11-aa26-4cff-a945-3bd7ae2e439c")
 		(property "Reference" "P9"
 			(at 86.614 261.366 0)
@@ -21683,7 +21870,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 85.09 264.16 0)
 			(effects
 				(font
@@ -21719,7 +21906,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 85.09 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 85.09 261.62 0)
 			(effects
 				(font
@@ -21945,7 +22141,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7bd3e2b2-1d2d-4d27-ae40-93a1cb2e73e4")
 		(property "Reference" "M5"
 			(at 181.61 66.04 0)
@@ -21990,7 +22186,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 213.36 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 213.36 67.31 0)
 			(effects
 				(font
@@ -22149,7 +22354,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8220251e-60b3-45ef-9d1e-f484711a91f3")
 		(property "Reference" "R30"
 			(at 224.79 262.89 0)
@@ -22159,7 +22364,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "0"
 			(at 224.79 265.43 0)
 			(effects
 				(font
@@ -22203,13 +22408,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" "C21189"
 			(at 224.79 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 224.536 268.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -22300,7 +22513,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 275.59 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 275.59 325.12 0)
 			(effects
 				(font
@@ -22385,7 +22607,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 144.78 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 144.78 199.39 0)
 			(effects
 				(font
@@ -22426,7 +22657,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b59e811-3981-46db-b21c-8cf87643fa1f")
 		(property "Reference" "P6"
@@ -22438,7 +22669,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 213.36 293.37 0)
 			(effects
 				(font
@@ -22474,7 +22705,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 210.82 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 210.82 293.37 0)
 			(effects
 				(font
@@ -22502,8 +22742,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
+		(dnp no)
 		(uuid "8d360492-06b0-4f05-801b-b84c2c4a26fe")
 		(property "Reference" "J6"
 			(at 254 83.8199 0)
@@ -22514,7 +22753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Conn_01x05_Pin"
 			(at 254 86.3599 0)
 			(effects
 				(font
@@ -22559,6 +22798,14 @@
 				(hide yes)
 			)
 		)
+		(property "Note-mie" "DNP"
+			(at 261.874 88.646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ca6bfc3e-8b47-4f88-ab7d-f04ec82f95f9")
 		)
@@ -22591,18 +22838,18 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8fffddc6-5432-4b7e-b0bb-df55b8c5008e")
 		(property "Reference" "J2"
-			(at 55.372 120.904 0)
+			(at 56.388 118.872 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "DNP"
-			(at 55.372 123.444 0)
+		(property "Value" "AMPSeal-35-verticale-bianco"
+			(at 46.736 125.984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22633,9 +22880,10 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "MyComment" "Aliexpress"
+		(property "MyComment" "776231-4    Aliexpress"
 			(at 63.5 129.54 0)
 			(effects
 				(font
@@ -22644,13 +22892,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "776231-4"
+		(property "LCSC" ""
 			(at 63.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 58.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -22777,7 +23033,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9217789a-2280-4fd8-bd3a-46478a9cc961")
 		(property "Reference" "M7"
@@ -22823,7 +23079,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 271.78 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 271.78 92.71 0)
 			(effects
 				(font
@@ -22869,7 +23134,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "94ab989b-48b4-4335-bcf4-3438b3866d3d")
 		(property "Reference" "P3"
 			(at 323.85 252.73 0)
@@ -22880,7 +23145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 322.58 255.27 0)
 			(effects
 				(font
@@ -22916,7 +23181,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 322.58 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 322.58 252.73 0)
 			(effects
 				(font
@@ -23146,7 +23420,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d7600ea-b95f-40c7-a7af-4d0209a19d98")
 		(property "Reference" "P5"
@@ -23158,7 +23432,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 209.55 252.73 0)
 			(effects
 				(font
@@ -23194,7 +23468,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 207.01 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 207.01 252.73 0)
 			(effects
 				(font
@@ -23291,18 +23574,18 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ac8ba4d6-51e9-4c59-abb5-2f2dcd923c07")
 		(property "Reference" "J1"
-			(at 55.626 215.646 0)
+			(at 58.42 215.392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "DNP"
-			(at 55.626 218.186 0)
+		(property "Value" "AMPSeal-35-verticale-nero"
+			(at 47.752 217.932 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23333,9 +23616,10 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "MyComment" "Aliexpress"
+		(property "MyComment" "776231-1    Aliexpress"
 			(at 63.5 228.6 0)
 			(effects
 				(font
@@ -23344,13 +23628,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "776231-1"
+		(property "LCSC" ""
 			(at 63.5 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 58.674 223.774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "14"
@@ -23534,7 +23826,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "Ci sono"
+		(property "MyComment" ""
+			(at 304.8 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 304.8 346.71 0)
 			(effects
 				(font
@@ -23638,7 +23939,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "aed18222-441c-4695-a368-c31109a3eada")
 		(property "Reference" "P2"
 			(at 89.154 167.386 0)
@@ -23649,7 +23950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 87.63 170.18 0)
 			(effects
 				(font
@@ -23685,7 +23986,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 87.63 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 87.63 167.64 0)
 			(effects
 				(font
@@ -24256,7 +24566,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c8606c52-58e1-4ecc-9038-21584d22eb76")
 		(property "Reference" "P1"
 			(at 89.154 164.846 0)
@@ -24267,7 +24577,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 87.63 167.64 0)
 			(effects
 				(font
@@ -24303,7 +24613,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 87.63 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 87.63 165.1 0)
 			(effects
 				(font
@@ -24599,7 +24918,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cf5e44dc-f2f2-420a-a344-a39b21d6ffb4")
 		(property "Reference" "R30"
 			(at 127 312.42 0)
@@ -24609,7 +24928,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "4.7k"
 			(at 132.08 313.69 0)
 			(effects
 				(font
@@ -24653,13 +24972,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" "C23162"
 			(at 132.08 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 127.508 315.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -24886,7 +25213,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 265.43 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 265.43 325.12 0)
 			(effects
 				(font
@@ -24923,7 +25259,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d7ba5e41-a96e-44fc-87f6-b9e8ec43739e")
 		(property "Reference" "P10"
 			(at 86.614 248.666 0)
@@ -24934,7 +25270,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 85.09 251.46 0)
 			(effects
 				(font
@@ -24970,7 +25306,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 85.09 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 85.09 248.92 0)
 			(effects
 				(font
@@ -24998,7 +25343,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "da129c40-0637-4293-bd95-77728e598c76")
 		(property "Reference" "P7"
 			(at 315.722 208.28 90)
@@ -25009,7 +25354,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 317.5 208.28 0)
 			(effects
 				(font
@@ -25045,7 +25390,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 320.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 320.04 208.28 0)
 			(effects
 				(font
@@ -25138,7 +25492,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "df020caf-5e9e-4b69-a553-8212cdd0ab35")
 		(property "Reference" "P4"
 			(at 323.85 250.19 0)
@@ -25149,7 +25503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "Pad"
 			(at 322.58 252.73 0)
 			(effects
 				(font
@@ -25185,7 +25539,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 322.58 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 322.58 250.19 0)
 			(effects
 				(font
@@ -25279,17 +25642,17 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ea318b7e-3858-47d1-a628-a4bdddb5052f")
 		(property "Reference" "R41"
-			(at 300.99 397.51 0)
+			(at 304.038 396.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10k"
 			(at 306.07 398.78 0)
 			(effects
 				(font
@@ -25333,13 +25696,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" "C17414"
 			(at 311.15 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 308.61 396.494 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -25692,7 +26063,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 335.28 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 335.28 393.7 0)
 			(effects
 				(font
@@ -25729,17 +26109,17 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f7769ca0-70ab-4293-9f54-745ada1ffaf8")
 		(property "Reference" "R39"
-			(at 300.99 392.43 0)
+			(at 304.038 391.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10k"
 			(at 306.07 393.7 0)
 			(effects
 				(font
@@ -25783,13 +26163,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" "C17414"
 			(at 311.15 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 308.356 391.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -25888,17 +26276,17 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "fad9d3b2-2680-49a5-a37c-068e70812097")
 		(property "Reference" "R38"
-			(at 300.99 387.35 0)
+			(at 304.038 386.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10k"
 			(at 306.07 388.62 0)
 			(effects
 				(font
@@ -25942,13 +26330,21 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" "C17414"
 			(at 311.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note-mie" "DNP"
+			(at 308.356 386.334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -25979,7 +26375,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc171e8d-961b-4499-baee-dd5ea13a9968")
 		(property "Reference" "M1"
@@ -26025,7 +26421,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 153.67 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 153.67 372.11 0)
 			(effects
 				(font

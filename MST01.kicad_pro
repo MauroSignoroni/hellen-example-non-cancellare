@@ -1326,7 +1326,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1351,12 +1351,6 @@
           "label": "MF",
           "name": "MF",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MyComment",
-          "name": "MyComment",
-          "show": true
         },
         {
           "group_by": false,
@@ -1429,6 +1423,18 @@
           "label": "Descrizione",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Note-mie",
+          "name": "Note-mie",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MyComment",
+          "name": "MyComment",
+          "show": true
         }
       ],
       "filter_string": "",

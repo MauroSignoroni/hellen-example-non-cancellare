@@ -661,7 +661,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 160.02 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -899,7 +908,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 180.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -995,7 +1013,16 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "x"
+		(property "MyComment" ""
+			(at 168.91 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note-mie" ""
 			(at 168.91 91.44 0)
 			(effects
 				(font
