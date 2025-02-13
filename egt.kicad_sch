@@ -1388,7 +1388,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 135.89 101.6 0)
 			(effects
 				(font
@@ -1491,7 +1491,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 166.37 92.71 0)
 			(effects
 				(font
@@ -1605,7 +1605,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 189.23 73.66 0)
 			(effects
 				(font
@@ -1707,7 +1707,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 151.13 101.6 0)
 			(effects
 				(font
@@ -1810,7 +1810,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -1976,7 +1976,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 176.53 73.66 0)
 			(effects
 				(font
@@ -2277,7 +2277,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 106.68 95.25 0)
 			(effects
 				(font
@@ -2507,7 +2507,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 142.24 91.44 0)
 			(effects
 				(font
@@ -2607,7 +2607,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 106.68 87.63 0)
 			(effects
 				(font

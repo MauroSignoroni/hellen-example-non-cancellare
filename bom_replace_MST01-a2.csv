@@ -41,11 +41,8 @@ Q601,
 # max9924
 U771,"MAX9924UAUB+T","MSOP10","C5145181"
 
-# STM32F407VGT6 is very cheap
-# U105,"STM32F407VGT6","LQFP100","C12345"
-
-# STM32F427VIT6 ha 2 Mb di flash !!
-U105,"STM32F427VIT6","LQFP100","C57097"
+# STM32F427VGT6 come MRE !!
+U105,"STM32F427VGT6","LQFP100","C117815"
 
 #without CAN2
 "C430,C431,D430,R430,U430",
@@ -107,4 +104,4 @@ U2,
 # same board ID as rev A for now!
 #include hellen-one/board_id/generated/board_id_uaefi-a.csv
 
-#include bom_pullups_MST01-a1.csv
+#include bom_pullups_MST01-a2.csv

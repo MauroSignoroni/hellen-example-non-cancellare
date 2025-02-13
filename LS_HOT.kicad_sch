@@ -661,7 +661,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -908,7 +908,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -1013,7 +1013,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 168.91 91.44 0)
 			(effects
 				(font

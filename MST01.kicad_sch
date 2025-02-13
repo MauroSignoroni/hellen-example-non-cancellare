@@ -7741,7 +7741,7 @@
 				)
 			)
 		)
-		(symbol "hellen-one-power_12and5V:Module-power_12and5V-0.2"
+		(symbol "hellen-one-power_12and5V-0.3:Module-power_12and5V-0.3"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -7753,7 +7753,7 @@
 					)
 				)
 			)
-			(property "Value" "Module-power_12and5V-0.2"
+			(property "Value" "Module-power_12and5V-0.3"
 				(at -1.27 3.81 0)
 				(effects
 					(font
@@ -7761,7 +7761,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hellen-one-power_12and5V-0.2:power_12and5V"
+			(property "Footprint" "hellen-one-power_12and5V-0.3:power_12and5V"
 				(at -2.54 3.81 0)
 				(effects
 					(font
@@ -7788,7 +7788,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Module-power_12and5V-0.2_1_0"
+			(symbol "Module-power_12and5V-0.3_1_0"
 				(rectangle
 					(start 33.02 0)
 					(end 0 -20.32)
@@ -9449,12 +9449,6 @@
 		(uuid "d441ef55-b5cb-4a79-8033-0339b3b233a4")
 	)
 	(junction
-		(at 146.05 374.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4fb2ed6-4db9-4b8d-8f99-9f48d8d44c51")
-	)
-	(junction
 		(at 204.47 387.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9477,6 +9471,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ece4fab5-e682-44ca-9a40-1044b31d8bf1")
+	)
+	(junction
+		(at 143.51 374.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee01b1e8-a98e-49e2-9d81-c6701a7eeba9")
 	)
 	(junction
 		(at 35.56 436.88)
@@ -10797,6 +10797,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 377.19) (xy 143.51 377.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21d5d59a-78d3-4bcf-b895-bbcbdac3229c")
+	)
+	(wire
+		(pts
 			(xy 198.12 384.81) (xy 194.31 384.81)
 		)
 		(stroke
@@ -10935,6 +10945,16 @@
 			(type default)
 		)
 		(uuid "296bc58d-8463-48dc-802c-ba673fe038cf")
+	)
+	(wire
+		(pts
+			(xy 143.51 370.84) (xy 143.51 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "296f99e6-e21e-4486-ab61-4eb9f860a429")
 	)
 	(wire
 		(pts
@@ -11727,6 +11747,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 374.65) (xy 143.51 377.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "568706bd-5535-4a8e-a4a6-1c06c5ae8979")
+	)
+	(wire
+		(pts
 			(xy 237.49 273.05) (xy 248.92 273.05)
 		)
 		(stroke
@@ -12112,6 +12142,16 @@
 			(color 194 194 0 1)
 		)
 		(uuid "65dae522-8579-4d24-8267-b9e7a29fe7fe")
+	)
+	(wire
+		(pts
+			(xy 143.51 374.65) (xy 146.05 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ed6dc8-84fa-40e5-97d5-a06d36eeb632")
 	)
 	(wire
 		(pts
@@ -13776,16 +13816,6 @@
 			(type default)
 		)
 		(uuid "c9262bfc-f475-40ae-8e11-28766f4fa241")
-	)
-	(wire
-		(pts
-			(xy 146.05 374.65) (xy 146.05 377.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9573f40-3e19-42cd-956e-a2c9a95c5729")
 	)
 	(wire
 		(pts
@@ -17560,7 +17590,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 339.09 232.41 0)
 			(effects
 				(font
@@ -18121,7 +18151,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 45.72 450.85 0)
 			(effects
 				(font
@@ -18388,7 +18418,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 179.07 215.9 0)
 			(effects
 				(font
@@ -18489,7 +18519,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 199.39 389.89 0)
 			(effects
 				(font
@@ -18643,7 +18673,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 328.93 208.28 0)
 			(effects
 				(font
@@ -18734,7 +18764,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 134.62 382.27 0)
 			(effects
 				(font
@@ -18827,7 +18857,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 31.75 450.85 0)
 			(effects
 				(font
@@ -18960,7 +18990,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 335.28 398.78 0)
 			(effects
 				(font
@@ -19063,7 +19093,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 312.42 334.645 0)
 			(effects
 				(font
@@ -19165,7 +19195,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 154.94 298.45 0)
 			(effects
 				(font
@@ -19333,7 +19363,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 154.94 334.01 0)
 			(effects
 				(font
@@ -19711,7 +19741,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 179.07 199.39 0)
 			(effects
 				(font
@@ -19871,7 +19901,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 53.34 467.36 0)
 			(effects
 				(font
@@ -19959,7 +19989,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 335.28 388.62 0)
 			(effects
 				(font
@@ -20151,7 +20181,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 248.92 138.43 0)
 			(effects
 				(font
@@ -20494,7 +20524,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 144.78 189.23 0)
 			(effects
 				(font
@@ -20846,7 +20876,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 36.83 472.44 0)
 			(effects
 				(font
@@ -20934,7 +20964,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 205.74 344.17 0)
 			(effects
 				(font
@@ -20972,6 +21002,110 @@
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hellen-one-power_12and5V-0.3:Module-power_12and5V-0.3")
+		(at 153.67 372.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58d5a4e4-cea8-49a4-ac96-fbdf74b7e1fc")
+		(property "Reference" "M1"
+			(at 170.18 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Module-power_12and5V-0.3"
+			(at 170.18 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "hellen-one-power_12and5V-0.3:power_12and5V"
+			(at 151.13 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hellen-One Power_12and5V Module"
+			(at 153.67 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MyComment" "x"
+			(at 153.67 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "E1"
+			(uuid "3b824009-4b3b-4ecd-84ba-4dec0575c21a")
+		)
+		(pin "E6"
+			(uuid "f2462006-fc36-4819-9d5a-f4468704303e")
+		)
+		(pin "E2"
+			(uuid "5aa3a172-7e3d-4cd4-a9ac-2d11df347a62")
+		)
+		(pin "S1"
+			(uuid "0d7db8bc-ca22-4f2a-9e18-d3a7769a39f7")
+		)
+		(pin "V2"
+			(uuid "57f8bf05-8372-4365-a51f-94b6adc8a267")
+		)
+		(pin "V3"
+			(uuid "263e7479-eb28-4772-a4c8-c851a78cb1b8")
+		)
+		(pin "E5"
+			(uuid "dd787378-e251-4054-8321-2d8c86089a2e")
+		)
+		(pin "E4"
+			(uuid "07f2834f-0b46-4160-b208-b3c49aaa54a9")
+		)
+		(pin "V1"
+			(uuid "a16d2113-ad23-48da-a556-8e9c3d152baf")
+		)
+		(pin "E3"
+			(uuid "2c6d64ae-4f30-4d7e-9329-02784ec5916a")
+		)
+		(pin "V4"
+			(uuid "3783f02f-3a57-4328-b286-fb31ea205225")
+		)
+		(instances
+			(project ""
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
+					(reference "M1")
 					(unit 1)
 				)
 			)
@@ -21171,7 +21305,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 153.67 179.07 0)
 			(effects
 				(font
@@ -21734,7 +21868,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 153.67 257.81 0)
 			(effects
 				(font
@@ -21836,7 +21970,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 85.09 261.62 0)
 			(effects
 				(font
@@ -22116,7 +22250,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 213.36 67.31 0)
 			(effects
 				(font
@@ -22338,7 +22472,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 224.79 265.43 0)
 			(effects
 				(font
@@ -22444,7 +22578,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 275.59 325.12 0)
 			(effects
 				(font
@@ -22538,7 +22672,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 144.78 199.39 0)
 			(effects
 				(font
@@ -22636,7 +22770,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 210.82 293.37 0)
 			(effects
 				(font
@@ -22720,7 +22854,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 251.46 85.09 0)
 			(effects
 				(font
@@ -23012,7 +23146,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 271.78 92.71 0)
 			(effects
 				(font
@@ -23114,7 +23248,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 322.58 252.73 0)
 			(effects
 				(font
@@ -23401,7 +23535,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 207.01 252.73 0)
 			(effects
 				(font
@@ -23760,7 +23894,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 304.8 346.71 0)
 			(effects
 				(font
@@ -23920,7 +24054,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 87.63 167.64 0)
 			(effects
 				(font
@@ -24423,7 +24557,7 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:+12V_RAW")
-		(at 146.05 374.65 0)
+		(at 143.51 370.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24431,7 +24565,7 @@
 		(dnp no)
 		(uuid "c7cf50cf-b6ea-4897-80d8-dbeb013ce3af")
 		(property "Reference" "#PWR03"
-			(at 146.05 378.46 0)
+			(at 143.51 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24440,7 +24574,7 @@
 			)
 		)
 		(property "Value" "+12V_RAW"
-			(at 141.3383 370.2049 0)
+			(at 138.7983 366.3949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24449,7 +24583,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 374.65 0)
+			(at 143.51 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24458,7 +24592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 374.65 0)
+			(at 143.51 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24467,7 +24601,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 374.65 0)
+			(at 143.51 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24547,7 +24681,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 87.63 165.1 0)
 			(effects
 				(font
@@ -24906,7 +25040,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 132.08 313.69 0)
 			(effects
 				(font
@@ -25148,7 +25282,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 265.43 325.12 0)
 			(effects
 				(font
@@ -25241,7 +25375,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 85.09 248.92 0)
 			(effects
 				(font
@@ -25325,7 +25459,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 320.04 208.28 0)
 			(effects
 				(font
@@ -25474,7 +25608,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 322.58 250.19 0)
 			(effects
 				(font
@@ -25631,7 +25765,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 311.15 398.78 0)
 			(effects
 				(font
@@ -25999,7 +26133,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 335.28 393.7 0)
 			(effects
 				(font
@@ -26099,7 +26233,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 311.15 393.7 0)
 			(effects
 				(font
@@ -26267,7 +26401,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" ""
+		(property "MyComment" "x"
 			(at 311.15 388.62 0)
 			(effects
 				(font
@@ -26301,119 +26435,6 @@
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "hellen-one-power_12and5V:Module-power_12and5V-0.2")
-		(at 153.67 372.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc171e8d-961b-4499-baee-dd5ea13a9968")
-		(property "Reference" "M1"
-			(at 170.18 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Module-power_12and5V-0.2"
-			(at 170.18 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "hellen-one-power_12and5V-0.2:power_12and5V"
-			(at 151.13 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.67 372.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 372.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MyComment" ""
-			(at 153.67 372.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note-mie" ""
-			(at 153.67 372.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "E1"
-			(uuid "14a1dd52-4759-40d2-9049-4ae1baa8add7")
-		)
-		(pin "E2"
-			(uuid "f2b26606-04f5-47f6-8823-1f3fcada6dfe")
-		)
-		(pin "E3"
-			(uuid "7bce8ba3-fb33-48f8-af86-56b0669c6e81")
-		)
-		(pin "E4"
-			(uuid "3f1c87a4-81a8-466f-8517-bdf375d45195")
-		)
-		(pin "E5"
-			(uuid "3da65aba-5202-48d0-8bc9-6e2209fd9616")
-		)
-		(pin "E6"
-			(uuid "f8b2d7d3-bcab-4ea8-ad6d-4e7264b7a01b")
-		)
-		(pin "S1"
-			(uuid "e2933345-8cf6-4c5e-bac9-1ac9731e0278")
-		)
-		(pin "V1"
-			(uuid "bdbaa904-4dfe-455b-911a-f36a873ef86f")
-		)
-		(pin "V2"
-			(uuid "33d68ac2-2eba-4d31-becd-6dd254629493")
-		)
-		(pin "V3"
-			(uuid "bd1419f9-4ac5-4414-b4d3-327e44e3065f")
-		)
-		(pin "V4"
-			(uuid "cce69037-c700-4c29-920b-0c418f973d13")
-		)
-		(instances
-			(project "uaefi"
-				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
-					(reference "M1")
 					(unit 1)
 				)
 			)

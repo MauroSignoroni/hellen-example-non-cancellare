@@ -1436,6 +1436,12 @@
           "label": "MyComment",
           "name": "MyComment",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Note-mie",
+          "name": "Note-mie",
+          "show": false
         }
       ],
       "filter_string": "",
