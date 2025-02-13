@@ -92,7 +92,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J8","USB_B_Mini","USB-MINI-B-VERTICAL",51.625000,16.945000,0.000000,top
 "L1","470R@100MHz","L_0603_1608Metric",95.815000,13.845000,180.000000,top
 "L2","470R@100MHz","L_0603_1608Metric",89.135000,13.845000,0.000000,top
-"M1","Module-power_12and5V-0.2","power_12and5V",27.789999,2.139999,0.000000,top
+"M1","Module-power_12and5V-0.3","power_12and5V",27.790001,2.139997,0.000000,top
 "M2","Module-knock-0.2","knock",99.215000,69.085000,180.000000,top
 "M3","Module-vr-discrete-0.5","vr-discrete",108.655000,14.800000,90.000000,top
 "M4","Module-vr-max9924-0.1","vr-max9924",108.610000,36.765000,90.000000,top
