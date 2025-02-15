@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example-non-cancellare/hellen-example-non-cancellare/MST01.kicad_sch</source>
-    <date>2025-02-13T14:16:04+0000</date>
+    <date>2025-02-15T13:53:00+0000</date>
     <tool>Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -157,6 +157,7 @@
         <field name="LCSC">C70381</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">kicad6-libraries:CR1220-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -165,6 +166,7 @@
       <property name="LCSC" value="C70381"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="battery cell"/>
@@ -178,6 +180,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -186,6 +189,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -198,6 +202,7 @@
         <field name="LCSC">C2128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:SOD-323</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -206,6 +211,7 @@
       <property name="LCSC" value="C2128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -218,6 +224,7 @@
         <field name="LCSC">C182446</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -226,6 +233,7 @@
       <property name="LCSC" value="C182446"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -238,6 +246,7 @@
         <field name="LCSC">C182446</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -246,6 +255,7 @@
       <property name="LCSC" value="C182446"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -258,6 +268,7 @@
         <field name="LCSC">C182446</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -266,6 +277,7 @@
       <property name="LCSC" value="C182446"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -278,6 +290,7 @@
         <field name="LCSC">C182446</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -286,6 +299,7 @@
       <property name="LCSC" value="C182446"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -297,6 +311,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">kicad6-libraries:rusefi_logo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -304,6 +319,7 @@
       <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -315,6 +331,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:LOGO</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -322,6 +339,7 @@
       <libsource lib="hellen-one-common" part="LOGO" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -333,6 +351,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PROTO_AREA</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -340,6 +359,7 @@
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -351,6 +371,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PROTO_AREA</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -358,6 +379,7 @@
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -371,6 +393,7 @@
         <field name="MyComment">Aliexpress</field>
         <field name="LCSC">776231-1</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Nero</field>
@@ -379,6 +402,7 @@
       <property name="MyComment" value="Aliexpress"/>
       <property name="LCSC" value="776231-1"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -394,6 +418,7 @@
         <field name="MyComment">Aliexpress</field>
         <field name="LCSC">776231-4</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">ampseal:ampseal-35-mia-con-pad-GND</field>
         <field name="Datasheet"/>
         <field name="Description">Bianco</field>
@@ -402,6 +427,7 @@
       <property name="MyComment" value="Aliexpress"/>
       <property name="LCSC" value="776231-4"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -417,6 +443,7 @@
         <field name="LCSC">C5305780</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
@@ -425,6 +452,7 @@
       <property name="LCSC" value="C5305780"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -439,6 +467,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
@@ -446,6 +475,7 @@
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -460,6 +490,7 @@
         <field name="LCSC">C13453</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:USB-MINI-B-VERTICAL</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -468,6 +499,7 @@
       <property name="LCSC" value="C13453"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector USB mini"/>
@@ -481,12 +513,14 @@
       <description>Hellen-One Power_12and5V Module</description>
       <fields>
         <field name="MyComment">x</field>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-power_12and5V-0.3:power_12and5V</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen-One Power_12and5V Module</field>
       </fields>
       <libsource lib="hellen-one-power_12and5V-0.3" part="Module-power_12and5V-0.3" description="Hellen-One Power_12and5V Module"/>
       <property name="MyComment" value="x"/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -498,6 +532,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-knock-0.2:knock</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -505,6 +540,7 @@
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -516,6 +552,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-vr-discrete-0.5:vr-discrete</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -523,6 +560,7 @@
       <libsource lib="hellen-one-vr-discrete-0.5" part="Module-vr-discrete-0.5" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -534,6 +572,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-vr-max9924-0.1:vr-max9924</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -541,6 +580,7 @@
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -552,6 +592,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-wbo-0.5:wbo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -559,6 +600,7 @@
       <libsource lib="hellen-one-wbo-0.5" part="Module-wbo-0.5" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -580,6 +622,7 @@
         <field name="TYPE">Module</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-mega-mcu100-0.3:mega-mcu100</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -597,6 +640,7 @@
       <property name="TYPE" value="Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU100_0.1"/>
@@ -609,6 +653,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
         <field name="Footprint">hellen-one-can-0.1:can</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -616,6 +661,7 @@
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -627,6 +673,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -634,6 +681,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -647,6 +695,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -654,6 +703,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -667,6 +717,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -674,6 +725,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -687,6 +739,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -694,6 +747,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -707,6 +761,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -714,6 +769,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -727,6 +783,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -734,6 +791,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -747,6 +805,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -754,6 +813,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -767,6 +827,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -774,6 +835,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -787,6 +849,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-TH</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -794,6 +857,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -807,6 +871,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -814,6 +879,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -828,6 +894,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -836,6 +903,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -848,6 +916,7 @@
         <field name="LCSC">C4216</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -856,6 +925,7 @@
       <property name="LCSC" value="C4216"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -868,6 +938,7 @@
         <field name="LCSC">C23212</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -876,6 +947,7 @@
       <property name="LCSC" value="C23212"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -888,6 +960,7 @@
         <field name="LCSC">C17477</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -896,6 +969,7 @@
       <property name="LCSC" value="C17477"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -908,6 +982,7 @@
         <field name="LCSC">C21189</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -916,6 +991,7 @@
       <property name="LCSC" value="C21189"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -928,6 +1004,7 @@
         <field name="LCSC">C21189</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -936,6 +1013,7 @@
       <property name="LCSC" value="C21189"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -948,6 +1026,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -956,6 +1035,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -968,6 +1048,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -976,6 +1057,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -988,6 +1070,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -996,6 +1079,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1008,6 +1092,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1016,6 +1101,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1028,6 +1114,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1036,6 +1123,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1048,6 +1136,7 @@
         <field name="LCSC">C17414</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1056,6 +1145,7 @@
       <property name="LCSC" value="C17414"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1070,6 +1160,7 @@
         <field name="STANDARD">Manufacturer Recommendations</field>
         <field name="LCSC">C9900001612</field>
         <field name="MyComment">Aliexpress</field>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:JDY-33_mio</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1080,6 +1171,7 @@
       <property name="STANDARD" value="Manufacturer Recommendations"/>
       <property name="LCSC" value="C9900001612"/>
       <property name="MyComment" value="Aliexpress"/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1092,6 +1184,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1100,6 +1193,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1112,6 +1206,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1120,6 +1215,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1132,6 +1228,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1140,6 +1237,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1152,6 +1250,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1160,6 +1259,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1172,6 +1272,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1180,6 +1281,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1192,6 +1294,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1200,6 +1303,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1212,6 +1316,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1220,6 +1325,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1232,6 +1338,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1240,6 +1347,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1252,6 +1360,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1260,6 +1369,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1272,6 +1382,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1280,6 +1391,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1292,6 +1404,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1300,6 +1413,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1312,6 +1426,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1320,6 +1435,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1332,6 +1448,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1340,6 +1457,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1352,6 +1470,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1360,6 +1479,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1372,6 +1492,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1380,6 +1501,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1392,6 +1514,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1400,6 +1523,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1412,6 +1536,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1420,6 +1545,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1432,6 +1558,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1440,6 +1567,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1452,6 +1580,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1460,6 +1589,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1472,6 +1602,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1480,6 +1611,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1492,6 +1624,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1500,6 +1633,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1512,6 +1646,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1520,6 +1655,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1532,6 +1668,7 @@
         <field name="LCSC">C15850</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1540,6 +1677,7 @@
       <property name="LCSC" value="C15850"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1552,6 +1690,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1560,6 +1699,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1572,6 +1712,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1580,6 +1721,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1592,6 +1734,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1600,6 +1743,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1611,6 +1755,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1618,6 +1763,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -1631,6 +1777,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1638,6 +1785,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -1651,6 +1799,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1658,6 +1807,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -1671,6 +1821,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Impronte-mie:PAD-TH-senza-serigrafia</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1678,6 +1829,7 @@
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -1692,6 +1844,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1700,6 +1853,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1712,6 +1866,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1720,6 +1875,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1732,6 +1888,7 @@
         <field name="LCSC">C2653438</field>
         <field name="MyComment">Aliexpress</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1740,6 +1897,7 @@
       <property name="LCSC" value="C2653438"/>
       <property name="MyComment" value="Aliexpress"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1752,6 +1910,7 @@
         <field name="LCSC">C2653438</field>
         <field name="MyComment">Aliexpress</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:Infineon_PG-DSO-12-11</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1760,6 +1919,7 @@
       <property name="LCSC" value="C2653438"/>
       <property name="MyComment" value="Aliexpress"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="2 DC Driver"/>
       <property name="Sheetfile" value="2_DC_MOTOR.kicad_sch"/>
       <sheetpath names="/2 DC Driver/" tstamps="/0c617583-4e3e-4059-8607-2ed650d520f4/"/>
@@ -1772,6 +1932,7 @@
         <field name="LCSC">C8598</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1780,6 +1941,7 @@
       <property name="LCSC" value="C8598"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1792,6 +1954,7 @@
         <field name="LCSC">C8598</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1800,6 +1963,7 @@
       <property name="LCSC" value="C8598"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1812,6 +1976,7 @@
         <field name="LCSC">C8598</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1820,6 +1985,7 @@
       <property name="LCSC" value="C8598"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1832,6 +1998,7 @@
         <field name="LCSC">C8598</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1840,6 +2007,7 @@
       <property name="LCSC" value="C8598"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1852,6 +2020,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1860,6 +2029,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1872,6 +2042,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1880,6 +2051,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1892,6 +2064,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1900,6 +2073,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1912,6 +2086,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1920,6 +2095,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1932,6 +2108,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1940,6 +2117,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1952,6 +2130,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1960,6 +2139,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS"/>
       <property name="Sheetfile" value="LS4.kicad_sch"/>
       <sheetpath names="/LS/" tstamps="/aa4a40ff-b05c-4d24-92a7-fdeac4807f5c/"/>
@@ -1972,6 +2152,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1980,6 +2161,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -1992,6 +2174,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2000,6 +2183,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -2012,6 +2196,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2020,6 +2205,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="LS HOT"/>
       <property name="Sheetfile" value="LS_HOT.kicad_sch"/>
       <sheetpath names="/LS HOT/" tstamps="/c1e0fc38-44a5-4f4c-8a40-7ced112340c0/"/>
@@ -2032,6 +2218,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2040,6 +2227,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -2052,6 +2240,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">MountingHole:MountingHole_3mm</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
@@ -2059,6 +2248,7 @@
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -2074,6 +2264,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">MountingHole:MountingHole_3mm</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
@@ -2081,6 +2272,7 @@
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -2096,6 +2288,7 @@
         <field name="LCSC">C511770</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:MPXH6400A-SSOP8</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2104,6 +2297,7 @@
       <property name="LCSC" value="C511770"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
@@ -2116,6 +2310,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2124,6 +2319,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2138,6 +2334,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2146,6 +2343,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2160,6 +2358,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2168,6 +2367,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2182,6 +2382,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2190,6 +2391,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2204,6 +2406,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2212,6 +2415,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2226,6 +2430,7 @@
         <field name="LCSC">C369141</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Fuse:Fuse_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2234,6 +2439,7 @@
       <property name="LCSC" value="C369141"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
@@ -2248,6 +2454,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2256,6 +2463,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2269,6 +2477,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2277,6 +2486,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2290,6 +2500,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2298,6 +2509,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2311,6 +2523,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2319,6 +2532,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2332,6 +2546,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2340,6 +2555,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2353,6 +2569,7 @@
         <field name="LCSC">C462128</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2361,6 +2578,7 @@
       <property name="LCSC" value="C462128"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
@@ -2374,6 +2592,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2382,6 +2601,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2394,6 +2614,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2402,6 +2623,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2414,6 +2636,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2422,6 +2645,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2434,6 +2658,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2442,6 +2667,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2454,6 +2680,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2462,6 +2689,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2474,6 +2702,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2482,6 +2711,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2494,6 +2724,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2502,6 +2733,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2514,6 +2746,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2522,6 +2755,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2534,6 +2768,7 @@
         <field name="LCSC">C23345</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2542,6 +2777,7 @@
       <property name="LCSC" value="C23345"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2554,6 +2790,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2562,6 +2799,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2574,6 +2812,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2582,6 +2821,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2594,6 +2834,7 @@
         <field name="LCSC">C25469</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Resistor_SMD:R_2512_6332Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2602,6 +2843,7 @@
       <property name="LCSC" value="C25469"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Ignition"/>
       <property name="Sheetfile" value="IGN6.kicad_sch"/>
       <sheetpath names="/Ignition/" tstamps="/92c4206f-a69e-4d4d-9308-206d3518e11e/"/>
@@ -2614,6 +2856,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2622,6 +2865,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2634,6 +2878,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2642,6 +2887,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2654,6 +2900,7 @@
         <field name="LCSC">C57112</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2662,6 +2909,7 @@
       <property name="LCSC" value="C57112"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2674,6 +2922,7 @@
         <field name="LCSC">C14663</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2682,6 +2931,7 @@
       <property name="LCSC" value="C14663"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2694,6 +2944,7 @@
         <field name="LCSC">C15849</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:C0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2702,6 +2953,7 @@
       <property name="LCSC" value="C15849"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <sheetpath names="/EGT/" tstamps="/ced20183-e5c8-42b4-80bd-35fc70d9313a/"/>
@@ -2716,6 +2968,7 @@
         <field name="LCSC">C284104</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF</field>
         <field name="Description">Dual Line CAN Bus Protector, 24Vrwm</field>
@@ -2724,6 +2977,7 @@
       <property name="LCSC" value="C284104"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="can esd protection suppression transient"/>
@@ -2738,6 +2992,7 @@
         <field name="LCSC">C97853</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Inductor_SMD:L_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2746,6 +3001,7 @@
       <property name="LCSC" value="C97853"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -2760,6 +3016,7 @@
         <field name="LCSC">C97853</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Inductor_SMD:L_0603_1608Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2768,6 +3025,7 @@
       <property name="LCSC" value="C97853"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -2784,6 +3042,7 @@
         <field name="LCSC">C52028</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf</field>
         <field name="Description">Cold Junction K-type Thermocouple Interface, SPI, SOIC-8</field>
@@ -2792,6 +3051,7 @@
       <property name="LCSC" value="C52028"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="Maxim"/>
@@ -2806,6 +3066,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2814,6 +3075,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2826,6 +3088,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2834,6 +3097,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2846,6 +3110,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2854,6 +3119,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2866,6 +3132,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2874,6 +3141,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2886,6 +3154,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2894,6 +3163,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2906,6 +3176,7 @@
         <field name="LCSC">C23162</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2914,6 +3185,7 @@
       <property name="LCSC" value="C23162"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2926,6 +3198,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2934,6 +3207,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2946,6 +3220,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2954,6 +3229,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
@@ -2966,6 +3242,7 @@
         <field name="LCSC">C377942</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -2974,6 +3251,7 @@
       <property name="LCSC" value="C377942"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
       <sheetpath names="/Injector/" tstamps="/45207479-6ae5-486c-ab42-805dda4ce511/"/>
