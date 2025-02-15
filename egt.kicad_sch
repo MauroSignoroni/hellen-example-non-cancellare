@@ -1406,6 +1406,15 @@
 				(hide yes)
 			)
 		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c162339-044d-422a-a2a3-5ec3bb2a8966")
 		)
@@ -1501,6 +1510,15 @@
 			)
 		)
 		(property "Note-mie" ""
+			(at 166.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 166.37 92.71 0)
 			(effects
 				(font
@@ -1623,6 +1641,15 @@
 				(hide yes)
 			)
 		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
+			(at 189.23 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7483cdaf-e35d-431b-94d9-6413c8bca442")
 		)
@@ -1717,6 +1744,15 @@
 			)
 		)
 		(property "Note-mie" ""
+			(at 151.13 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 151.13 101.6 0)
 			(effects
 				(font
@@ -1820,6 +1856,15 @@
 			)
 		)
 		(property "Note-mie" ""
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -1986,6 +2031,15 @@
 			)
 		)
 		(property "Note-mie" ""
+			(at 176.53 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 176.53 73.66 0)
 			(effects
 				(font
@@ -2295,6 +2349,15 @@
 				(hide yes)
 			)
 		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
+			(at 106.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5b6791b-2629-495a-a81d-53fd10246ee0")
 		)
@@ -2525,6 +2588,15 @@
 				(hide yes)
 			)
 		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53679857-69a5-41ed-afcb-7dc20fee6193")
 		)
@@ -2617,6 +2689,15 @@
 			)
 		)
 		(property "Note-mie" ""
+			(at 106.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 106.68 87.63 0)
 			(effects
 				(font

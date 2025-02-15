@@ -128,4 +128,4 @@ U2,
 # same board ID as rev A for now!
 #include hellen-one/board_id/generated/board_id_uaefi-a.csv
 
-#include bom_pullups_MST01-a3.csv
+#include bom_pullups_MST01-a5.csv
