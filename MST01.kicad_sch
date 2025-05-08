@@ -19294,7 +19294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 154.94 298.45 0)
 			(effects
 				(font
@@ -19471,7 +19471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 154.94 334.01 0)
 			(effects
 				(font
@@ -20325,7 +20325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 248.92 138.43 0)
 			(effects
 				(font
@@ -21240,7 +21240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 153.67 372.11 0)
 			(effects
 				(font
@@ -22075,7 +22075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 153.67 257.81 0)
 			(effects
 				(font
@@ -22475,7 +22475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 213.36 67.31 0)
 			(effects
 				(font
@@ -23434,7 +23434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Verifica file generato da hellen-one *-CPL.csv" ""
+		(property "Verifica file generato da hellen-one *-CPL.csv" "x"
 			(at 271.78 92.71 0)
 			(effects
 				(font

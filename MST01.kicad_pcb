@@ -110,6 +110,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(aux_axis_origin 71.345 145.255)
+		(grid_origin 71.345 145.255)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -43842,7 +43843,7 @@
 		)
 	)
 	(gr_text "IGN3"
-		(at 90.395 95.58 0)
+		(at 90.385 91.475 0)
 		(layer "F.SilkS")
 		(uuid "00775655-889b-4b47-81b6-7fd65a32e4a4")
 		(effects
@@ -44179,7 +44180,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 90.555 91.57 0)
+		(at 90.515 95.385 0)
 		(layer "F.SilkS")
 		(uuid "49a66a6e-1c41-4265-b6dd-07efceb92a8b")
 		(effects
