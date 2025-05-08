@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example-non-cancellare/hellen-example-non-cancellare/MST01.kicad_sch</source>
-    <date>2025-02-15T13:53:00+0000</date>
-    <tool>Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1</tool>
+    <date>2025-05-08T16:11:06+0000</date>
+    <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>MST-01</title>
@@ -513,14 +513,14 @@
       <description>Hellen-One Power_12and5V Module</description>
       <fields>
         <field name="MyComment">x</field>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-power_12and5V-0.3:power_12and5V</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen-One Power_12and5V Module</field>
       </fields>
       <libsource lib="hellen-one-power_12and5V-0.3" part="Module-power_12and5V-0.3" description="Hellen-One Power_12and5V Module"/>
       <property name="MyComment" value="x"/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -532,7 +532,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-knock-0.2:knock</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -540,7 +540,7 @@
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -552,7 +552,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-vr-discrete-0.5:vr-discrete</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -560,7 +560,7 @@
       <libsource lib="hellen-one-vr-discrete-0.5" part="Module-vr-discrete-0.5" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -572,7 +572,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-vr-max9924-0.1:vr-max9924</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -580,7 +580,7 @@
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -592,7 +592,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-wbo-0.5:wbo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -600,7 +600,7 @@
       <libsource lib="hellen-one-wbo-0.5" part="Module-wbo-0.5" description=""/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -622,7 +622,7 @@
         <field name="TYPE">Module</field>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-mega-mcu100-0.3:mega-mcu100</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -640,7 +640,7 @@
       <property name="TYPE" value="Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU100_0.1"/>
@@ -653,7 +653,7 @@
       <fields>
         <field name="MyComment">x</field>
         <field name="Note-mie"/>
-        <field name="Verifica file generato da hellen-one *-CPL.csv"/>
+        <field name="Verifica file generato da hellen-one *-CPL.csv">x</field>
         <field name="Footprint">hellen-one-can-0.1:can</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -661,7 +661,7 @@
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="MyComment" value="x"/>
       <property name="Note-mie" value=""/>
-      <property name="Verifica file generato da hellen-one *-CPL.csv" value=""/>
+      <property name="Verifica file generato da hellen-one *-CPL.csv" value="x"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MST01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
